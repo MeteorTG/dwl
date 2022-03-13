@@ -1,0 +1,1796 @@
+// How to import this Wishlist: https://app.destinyitemmanager.com --> Settings --> Wish List --> Load Wish List Rolls
+
+// Witch Queen Weapon Wishlist -- Flare Star
+
+// Season of the Risen (43 New + 15 with updated Perks = 58)
+// Weapon Type, Name, Slot & Element, Archetype/Frame, Source		Perks
+// Auto Rifle	
+	// Come to Pass, Energy Arc, High-Impact, Wellspring, Craft
+#Stats for All, and One for All
+#Adaptive Munitions
+	
+	// Duty Bound (has Adept), Kinetic, Adaptive, Nightfall
+#PVP: Perpetual Motion, and Dynamic Sway Reduction
+#Triple Tap, and Vorpal Weapon
+#Triple Tap, and Rampage
+#Stats for All, and One for All
+#Meme: Triple Tap, and Fourth Time's the Charm
+
+	// Herod-C, Kinetic Stasis, High-Impact, Gambit
+#Stats for All, and One for All
+#Fourth Time's the Charm, and Vorpal Weapon
+
+	// Krait, Kinetic Stasis, Rapid-Fire, World
+#Auto-Loading Holster, and Headstone
+#Auto-Loading Holster, and Vorpal Weapon
+
+	// Sweet Sorrow, Energy Arc, Rapid-Fire, Craft
+#Auto-Loading Holster, and Vorpal Weapon
+
+	// The Summoner (has Adept), Energy Solar, Adaptive, Trials
+#PVP: Rangefinder, and Elemental Capacitor
+#Overflow, and Rampage
+#Overflow, and Golden Tricorn
+#Overflow, and Focused Fury
+
+
+// Combat Bow
+	// Under Your Skin, Energy Void, Precision, Craft
+#Archer's Tempo, and Explosive Head
+#Archer's Tempo, and Dragonfly
+	
+	// Fel Taradiddle, Kinetic, Lightweight, Wellspring, Craft
+#Archer's Tempo, and Explosive Head
+
+
+// Fusion Rifle
+	// Deliverance (has Adept), Kinetic Stasis, Precision, VotD
+#Demolitionist, and Adrenaline Junkie
+#PVP: Perpetual Motion, and Tap the Trigger
+
+	// Likely Suspect, Energy Void, Rapid-Fire, Craft
+#Ensemble, and Golden Tricorn
+#Slideways, and Golden Tricorn
+
+	// Plug One.1 (has Adept), Energy Arc, Precision, Nightfall
+#Compulsive Reloader, and Reservoir Burst
+#Adaptive Munitions, and Turnabout
+#Feeding Frenzy, and Successful Warm-Up
+
+	// Snorri FR5, Energy Void, Precision, World
+#PVP: Firmly Planted, and High-Impact Reserves
+#Compulsive Reloader, and Reservoir Burst
+
+
+// Glaive
+	// Lubrae's Ruin (has Adept), Energy Solar, Adaptive, VotD
+#Immovable Object, and Unstoppable Force
+
+	// The Enigma, Energy Void, Adaptive, Craft
+dimwishlist:item=2595497736&perks=3878366039#Impulse Amplifier
+
+
+// Grenade Launcher
+	// Explosive Personality, Energy Solar, Wave, Craft
+#Auto-Loading Holster, and Frenzy
+#Feeding Frenzy, and One For All
+#Feeding Frenzy, and Golden Tricorn
+
+	// Forbearance (has Adept), Energy Arc, Wave, VotD
+#Surplus, and Chain Reaction
+#Stats for All, and Chain Reaction
+
+	// Tarnation, Power Arc, Rapid-Fire, Wellspring, Craft
+#Field Prep, and Chain Reaction
+
+	// Typhon GL5, Power Stasis, Adaptive, World
+#Demolitionist, and Explosive Light
+#Impulse Amplifier, and Explosive Light
+
+
+// Hand Cannon
+	// Cantata-57, Energy Arc, Adaptive, World
+#PVP: Eye of the Storm, and Rangefinder
+
+	// Crisis Inverted, Energy Arc, Adaptive, Crucible
+#PVP: Moving Target, and Rangefinder
+
+	// Finite Impactor, Energy Arc, Adaptive, Iron Banner
+#PVP: Slideways, and Focused Fury
+
+	// Frontier's Cry, Energy Solar, Precision, Iron Banner
+#TBD: weak
+
+	// The Palindrome (has Adept), Energy Void, Adaptive, Nightfall
+#PVP: Quickdraw, and Rangefinder
+#PVP: Overflow, and Rangefinder
+
+
+// Linear Fusion Rifle
+	// Cataclysmic (has Adept), Power Solar, Precision, VotD
+#Fourth Time's the Charm, and Focused Fury
+#Fourth Time's the Charm, and Bait and Switch
+
+	// Reed's Regret (has Adept), Power Stasis, Precision, Trials
+#Auto-Loading Holster, and Vorpal Weapon
+#Triple Tap, and Firing Line
+#Triple Tap, and Vorpal Weapon
+	
+
+// Machine Gun
+	// Archon's Thunder, Power Solar, High-Impact, Iron Banner
+#Auto-Loading Holster, and Rampage
+#Field Prep, and Rampage
+
+	// Recurrent Impact, Power Stasis, Rapid-Fire, Craft
+#Field Prep, and Headstone
+#Field Prep, and One for All
+
+
+// Pulse Rifle	
+	// Forge's Pledge, Energy Solar, Adaptive, Iron Banner
+#PVP: Surplus, and Snapshot Sights
+#PVP: Surplus, and Elemental Capacitor
+
+	// Insidious (has Adept), Energy Arc, Aggressive Burst, VotD
+#Dragonfly, and Adaptive Munitions
+#Dragonfly, and Rampage
+
+	// Ogma PR6, Energy Solar, Lightweight, World
+#Demolitionist, and Adrenaline Junkie
+	
+	// Piece of Mind, Kinetic, Rapid-Fire, Craft
+#Auto-Loading Holster, and Adrenaline Junkie
+
+	// Syncopation-53, Kinetic Stasis, Adaptive, Craft
+#PVP: Moving Target, and Headstone
+#Outlaw, and Headstone
+
+	// The Messenger (has Adept), Kinetic, High-Impact, Trials
+#PVP: Add Elemental Capacitor to old strings
+
+
+// Rocket Launcher
+	// Palmyra-B, Power Stasis, Precision, Craft
+#Auto-Loading Holster, and Chain Reaction
+#Auto-Loading Holster, and Explosive Light
+
+	// Red Herring, Power Void, Adaptive, Craft
+#Field Prep, and Lasting Impression
+
+	// The Hothead (has Adept), Power Arc, Adaptive, Nightfall
+#Field Prep, and Lasting Impression
+#Field Prep, and Explosive Light
+#Auto-Loading Holster, and Lasting Impression
+#Auto-Loading Holster, and Explosive Light
+
+
+// Scout Rifle
+	// Aisha's Embrace (has Adept), Energy Void, Rapid-Fire, Trials
+#Tripal Tap, and Vorpal Weapon
+#Meme: Triple Tap, and Fourth Time's the Charm
+
+	// Perses-D, Kinetic Stasis, High-Impact, World
+#Rapid Hit, and Vorpal Weapon
+
+	// Pointed Inquiry, Energy Void, High-Impact, Craft
+#Genesis, and Adaptive Munitions
+
+
+// Shotgun
+	// The Comedian (has Adept), Energy Void, Aggressive, Nightfall
+#TBD: frame w/ such perks is so bad. "Comedian."
+
+	// Fortissimo-11, Kinetic, Pinpoint Slug, Vanguard
+#PVP: Threat Detector, and Opening Shot
+Fluted Barrel/Full Bore, Accurized Rounds
+
+	// Ragnhild-D, Kinetic, Aggressive, Craft
+#PVP: Auto-Loading Holster, and Elemental Capacitor
+#PVP: Perpetual Motion, and Thresh
+
+	// Reckless Endangerment, Kinetic, Lightweight, Playlist Rank
+#TBD: lack of range
+
+	// Riiswalker, Kinetic, Lightweight, Iron Banner
+#PVP: Hip-Fire Grip, Iron Reach
+#PVP: Quickdraw, Iron Reach
+#PVP: Surplus, Iron Reach
+
+
+// Sidearm
+	// Empirical Evidence, Kinetic, Aggressive Burst, Craft
+#TBD
+
+	// Peacebond, Kinetic Stasis, Adaptive, Iron Banner
+#PVP: Rangefinder, and Headstone
+
+	// Redback-5SI, Energy Solar, Lightweight, World
+#Vorpal Weapon
+
+
+// Sniper Rifle
+	// Eye of Sol (has Adept), Kinetic, Adaptive, Trials
+#PVP: Moving Target, and Snapshot Sights
+
+	// Father's Sins, Energy Void, Rapid-Fire, Wellspring, Craft
+#PVP: No Distractions, and Opening Shot
+#Triple Tap, and Focused Fury
+
+	// Fugue-55, Energy Void, Adaptive, World
+#PVP: No distractions, and Snapshot Sights
+
+	// Occluded Finality, Energy Arc, Aggressive, Iron Banner
+#PVP: Snapshot Sights, and Opening Shot
+
+	// Silicon Neuroma (has Adept), Kinetic, Aggressive, Nightfall
+#PVP: Snapshot Sights, and Opening Shot
+#Triple Tap, and Firing Line
+	
+	// Thoughtless, Kinetic Stasis, Adaptive, Craft
+#PVP: Firmly Planted, and Snapshot Sights
+
+
+// Submachine Gun
+	// Forensic Nightmare, Kinetic Stasis, Precision, Craft
+dimwishlist:item=1526296434&perks=3755250867,1171887445				#Under Pressure, and Headstone
+
+
+	// Funnelweb, Energy Void, Lightweight, World
+#Subsistence, and Frenzy
+
+	// Shayura's Wrath (has Adept), Energy Void, Precision, Trials
+#PVP: Dynamic Sway Reduction, and Tap the Trigger
+#PVP: Dynamic Sway Reduction, and Kill Clip
+
+	// Submission (has Adept), Kinetic, Lightweight, VotD
+#Subsistence, and Frenzy
+#Overflow, and Frenzy
+
+
+// Sword
+	// Razor's Edge, Power Void, Vortex, Iron Banner
+#Unrelenting, and Chain Reaction	
+#Duelist's Trance, and Chain Reaction
+#Assassin's Blade
+
+	
+// Trace Rifle
+	// N/A
+
+
+
+
+
+
+
+
+
+	
+// Beyond Light Weapon Wishlist -- Flare Star
+
+// 30th Anniversary (10 New)
+// Weapon Type and Name												Perks
+// Grenade Launcher
+	// Pardon Our Dust, Kinetic, Lightweight, DoE
+dimwishlist:item=3849810018&perks=3032599245,3300816228				#Blinding Grenades, and Auto-Loading Holster
+dimwishlist:item=3849810018&perks=3301904089,1546637391				#Spike Grenades, and Vorpal Weapon
+dimwishlist:item=3849810018&perks=3301904089,3425386926				#Spike Grenades, and Rampage
+
+
+// Hand Cannon
+	// Eyasluna, Kinetic, Adaptive, GoA
+dimwishlist:item=235827225&perks=247725512,588594999				#PVP: Rapid Hit, and Moving Target
+dimwishlist:item=235827225&perks=2846385770,588594999				#PVP: Rangefinder, and Moving Target
+
+
+// Pulse Rifle
+	// BXR-55 Battler, Energy Solar, Legacy PR-55 (450), DoE
+dimwishlist:item=2708806099&perks=3523296417,11612903				#Demolitionist, and Adrenaline Junkie
+dimwishlist:item=2708806099&perks=957782887,699525795				#PVP: Snapshot Sights, and Eye of the Storm
+
+
+// Shotgun
+	// Matador 64, Energy Arc, Precision, GoA
+dimwishlist:item=2563012876&perks=1047830412,4071163871,47981717	#PVP: Full Choke, Threat Detector, and Opening Shot
+
+	// Wastelander M5, Kinetic, Lightweight, DoE
+dimwishlist:item=1679868061&perks=1047830412,3161816588,47981717	#PVP: Full Choke, Slideshot, and Opening Shot
+
+
+// Sniper Rifle
+	// 1000 Yard Stare, Energy Void, Adaptive, GoA
+dimwishlist:item=4164201232&perks=280464955,957782887 				#PVP: Firmly Planted, and Snapshot Sights
+dimwishlist:item=4164201232&perks=2866798147,957782887				#PVP: No Distractions, and Snapshot Sights
+	
+// Sword
+	// Half-Truths, Power Arc, Adaptive, DoE
+dimwishlist:item=3257091166&perks=2726471870,2077819806				#Thresh, and Eager Edge
+
+	// Hero of Ages, Power Arc, Vortex, GoA
+dimwishlist:item=2139640995&perks=3108830275,2396489472				#Unrelenting, and Chain Reaction
+dimwishlist:item=2139640995&perks=3523296417,2396489472				#Demolitionist, and Chain Reaction
+dimwishlist:item=2139640995&perks=3705817207,2396489472				#Duelist's Trance, and Chain Reaction
+dimwishlist:item=2139640995&perks=354401740							#Assassin's Blade
+
+	// The Other Half, Power Void, Adaptive, DoE
+dimwishlist:item=3257091167&perks=2077819806,4104185692				#Eager Edge, and Frenzy
+
+	// Zephyr, Power Stasis, Adaptive, Dawning
+dimwishlist:item=3400256755&perks=2726471870,3650930298				#Thresh, and Cold Steel
+	
+	
+// Trace Rifle
+	// Retraced Path, Energy Solar, Adaptive, DoE
+dimwishlist:item=548958835&perks=1820235745,2610012052				#Subsistence, and Golden Tricorn
+dimwishlist:item=548958835&perks=1820235745,4049631843				#Subsistence, and One for All
+dimwishlist:item=548958835&perks=1820235745,4104185692				#Subsistence, and Frenzy
+
+
+
+
+
+
+
+
+
+
+// Season of the Lost (27 New)
+// Weapon Type and Name												Perks
+// Auto Rifle
+	// Chrysura Melo, Energy Solar, High-Impact, AstA
+dimwishlist:item=1337707096&perks=127335543,4104185692				#Dynamic Sway Reduction, and Frenzy
+
+	// The last Breath, Kinetic, Adaptive, To9
+dimwishlist:item=507038823&perks=1820235745,4104185692				#Subsistence, and Frenzy
+dimwishlist:item=507038823&perks=3523296417,11612903				#Demolitionist, and Adrenaline Junkie
+dimwishlist:item=507038823&perks=127335543,2846385770				#PVP: Dynamic Sway Reduction, and Rangefinder
+
+	// Scathelocke, Kinetic, Adaptive, World
+dimwishlist:item=602618796&perks=1820235745,3425386926				#Subsistence, and Rampage
+dimwishlist:item=602618796&perks=3436462433,699525795				#PVP: Surplus, and Eye of the Storm
+
+	// Sorrow's Verse, Energy Arc, Adaptive, Crucible
+dimwishlist:item=2496875173&perks=1820235745,3425386926				#Subsistence, and Rampage
+dimwishlist:item=2496875173&perks=127335543,3511092054				#PVP: Dynamic Sway Reduction, and Elemental Capacitor
+
+
+// Combat Bow
+	// Wolftone Draw, Energy Arc, Precision, AstA
+dimwishlist:item=3472875143&perks=951095735,4104185692				#Impulse Amplifier, and Frenzy
+dimwishlist:item=3472875143&perks=201365942,4104185692				#Archer's Tempo, and Frenzy
+
+
+// Fusion Rifle
+	// Iota Draconis, Energy Solar, High-Impact, AstA
+dimwishlist:item=3044460004&perks=1645158859,2213355989				#PVP: Under Pressure, and High-Impact Reserves
+
+
+// Grenade Launcher
+	// Canis Major, Power Solar, Rapid-Fire, AstA
+dimwishlist:item=2066434718&perks=951095735,2396489472				#Impulse Amplifier, and Chain Reaction
+
+
+// Hand Cannon
+	// Annual Skate, Energy Solar, Adaptive, World
+dimwishlist:item=6857689&perks=3436462433,1954620775				#PVP: Surplus, and Timed Payload
+
+	// Judgment, Kinetic, Adaptive, To9
+dimwishlist:item=1476654960&perks=3523296417,11612903				#Demolitionist, and Adrenaline Junkie
+
+	// Vulpecula, Kinetic Stasis, Precision, AstA
+dimwishlist:item=1622998472&perks=2450788523,3038247973				#PVP: Killing Wind, and Explosive Payload
+
+
+// Linear Fusion Rifle
+	// Reed's Regret (has Adept), Power Stasis, Precision, Trials
+dimwishlist:item=1399243961&perks=3400784728,1546637391				#Triple Tap, and Vorpal Weapon
+dimwishlist:item=2475355656&perks=3400784728,1546637391
+dimwishlist:item=1399243961&perks=3400784728,1771339417				#Triple Tap, and Firing Line
+dimwishlist:item=2475355656&perks=3400784728,1771339417
+	
+	
+// Machine Gun
+	// N/A
+
+
+// Pulse Rifle
+	// Darkest Before, Energy Arc, Rapid-Fire, To9
+dimwishlist:item=2481758391&perks=3436462433,4267945040				#Surplus, and Rampage
+dimwishlist:item=2481758391&perks=3436462433,4267945040				#PVP: Surplus, and Full Auto Trigger System
+dimwishlist:item=2481758391&perks=3436462433,3511092054				#PVP: Surplus, and Elemental Capacitor
+
+	// Forge's Pledge, Energy Solar, Adaptive, Iron Banner
+dimwishlist:item=1076810832&perks=3436462433,957782887				#Surplus, and Snapshot Sights
+
+	// Jurassic Green, Energy Solar, Rapid-Fire, FotL
+dimwishlist:item=2261046232&perks=4104185692						#Frenzy
+
+	// Legal Action II, Kinetic, High-Impact, World
+dimwishlist:item=3409645497&perks=1774574192						#Osmosis
+dimwishlist:item=3409645497&perks=3436462433,3592538738				#Surplus, and Frenzy
+
+
+// Rocket Launcher
+	// Ascendancy, Power Solar, Precision, Seasonal Quest
+dimwishlist:item=725408022&perks=951095735,3194351027				#Curated: Impulse Amplifier, and Explosive Light
+
+	// The Hothead (has Adept), Power Arc, Adaptive, Nightfall
+dimwishlist:item=4255171531&perks=3977735242,3194351027				#Tracking Module, and Explosive Light
+dimwishlist:item=1866778462&perks=3977735242,3194351027
+dimwishlist:item=4255171531&perks=3977735242,1546637391				#Tracking Module, and Vorpal Weapon
+dimwishlist:item=1866778462&perks=3977735242,1546637391
+
+
+// Scout Rifle
+	// Contingency Plan, Energy Arc, Veist Rapid-Fire, World
+dimwishlist:item=577528837&perks=3436462433,4104185692				#Surplus, and Frenzy
+
+	// Servant Leader, Kinetic, Rapid-Fire, Gambit
+dimwishlist:item=1107446438&perks=247725512,3425386926				#Rapid Hit, and Rampage
+
+
+// Shotgun
+	// A Sudden Death, Energy Arc, Aggressive, To9
+dimwishlist:item=2855157553&perks=1047830412,3436462433,3511092054	#PVP: Full Choke, Surplus, and Elemental Capacitor
+dimwishlist:item=2855157553&perks=1047830412,3161816588,3511092054	#PVP: Full Choke, Slideshot, and Elemental Capacitor
+
+	// Fractethyst, Kinetic Stasis, Precision, AstA
+dimwishlist:item=3184681056&perks=1047830412,706527188,47981717		#PVP: Full Choke, Quickdraw, and Opening Shot
+dimwishlist:item=3184681056&perks=1047830412,706527188,47981717		#PVP: Full Choke, Quickdraw, and Opening Shot
+
+	// The Comedian (has Adept), Energy Void, Aggressive, Nightfall
+dimwishlist:item=1028582252&perks=3096702027,1546637391				#Genesis, and Vorpal Weapon
+dimwishlist:item=2443900757&perks=3096702027,1546637391
+
+
+// Sidearm
+	// A Swift Verdict, Energy Void, Precision, To9
+dimwishlist:item=1626503676&perks=4267945040,1683379515				#Full Auto Trigger System, and Disruption Break
+	
+	// Peacebond, Kinetic Stasis, Adaptive, Iron Banner
+dimwishlist:item=829330711&perks=2846385770,591790007				#Rangefinder, and Iron Reach
+	
+	// Punching Out, Energy Solar, Suros Rapid-Fire, Vanguard
+dimwishlist:item=378498222&perks=1631667848,4082225868				#Grave Robber, and Swashbuckler
+	
+	// Spoiler Alert, Kinetic, Lightweight, World
+																	#TBD
+
+
+// Sniper Rifle
+	// Shepherd's Watch, Kinetic, Adaptive, World
+dimwishlist:item=3743729616&perks=2866798147,957782887 				#PVP: No Distractions, and Snapshot Sights
+	
+	// The Long Walk, Energy Solar, Aggressive, To9
+dimwishlist:item=3326850591&perks=2284787283,1771339417				#Magazine, Clown Cartridge, and Firing Line
+
+
+// Submachine Gun
+	// N/A
+	
+	
+// Sword
+	// N/A
+	
+	
+// Trace Rifle
+	// N/A
+
+
+
+
+
+
+
+
+
+
+// Season of the Splicer (30 New + 15 Reissue = 45)
+// Weapon Type and Name												Perks
+// Auto Rifle
+	// Arc Logic, Energy Arc, Adaptive, Moon
+dimwishlist:item=2723909519&perks=1820235745,3425386926				#Subsistence, and Rampage
+																	
+	// Chroma Rush, Kinetic, Rapid-Fire, Override
+dimwishlist:item=1119734784&perks=1820235745,3425386926				#Subsistence, and Rampage
+dimwishlist:item=1119734784&perks=2779035018,3425386926				#Feeding Frenzy, and Rampage
+dimwishlist:item=1119734784&perks=1359896290,1015611457				#Dynamic Sway Reduction, Kill Clip
+	
+	// The Number, Energy Arc, Precision, Umbral
+dimwishlist:item=2492081469&perks=4049631843						#One for All
+
+	// Tigerspite, Kinetic, Precision, DreamingC
+																	#TBD
+
+// Combat Bow
+	// N/A
+
+
+// Fusion Rifle
+	// Dream Breaker, Energy Solar, Adaptive, Moon
+dimwishlist:item=2931957300&perks=1645158859,2213355989				#PVP: Under Pressure, and High-Impact Reserves
+																
+	// Null Composure, Energy Void, Rapid-Fire, Seasonal Quest
+dimwishlist:item=1644680957&perks=2779035018,1427256713				#Curated: Feeding Frenzy, and Reservoir Burst
+	
+	// Plug One.1 (has Adept), Energy Arc, Precision, Nightfall
+dimwishlist:item=1289000550&perks=2779035018,2726471870				#Feeding Frenzy, and Thresh
+dimwishlist:item=534775659&perks=2779035018,2726471870
+
+
+// Grenade Launcher
+	// Empty Vessel, Energy Solar, Lightweight, Vanguard	
+dimwishlist:item=4255586669&perks=3032599245,3300816228				#Blinding Grenades, Auto-Loading Holster
+dimwishlist:item=4255586669&perks=3301904089,2010801679,2458213969	#Spike Grenades, Ambitious Assassin, and Multikill Clip
+dimwishlist:item=4255586669&perks=3300816228,1683379515				#PVP: Auto-Loading Holster, and Disruption Break
+	
+	// Ignition Code, Kinetic, Lightweight, Override
+dimwishlist:item=304659313&perks=3032599245,3161816588				#Blinding Grenades, and Slideshot
+dimwishlist:item=304659313&perks=3301904089,2010801679				#Spike Grenades, and Ambitious Assassin
+	
+	// Love and Death, Power Solar, Rapid-Fire, Moon
+dimwishlist:item=3690523502&perks=3301904089,3300816228,2888557110	#Spike Grenades, Auto-Loading Holster, and Full Court
+dimwishlist:item=3690523502&perks=3300816228,2396489472				#Auto-Loading Holster, and Chain Reaction
+	
+	// Memory Interdict, Power Void, Adaptive, Umbral
+dimwishlist:item=3165547384&perks=951095735,2396489472				#Impulse Amplifier, and Chain Reaction
+
+
+// Hand Cannon
+	// Fatebringer (has Timelost), Kinetic, Adaptive, VoG
+dimwishlist:item=2171478765&perks=3038247973,699525795				#PVP: Explosive Payload, and Eye of the Storm
+dimwishlist:item=1216319404&perks=3038247973,699525795
+
+	// Finite Impactor, Energy Arc, Adaptive, Iron Banner
+dimwishlist:item=3813153080&perks=2866798147,699525795				#PVP: No Distractions, Eye of the Storm
+
+	// Loud Lullaby, Kinetic, Aggressive, Moon
+dimwishlist:item=3924212056&perks=2866798147,3038247973				#PVP: No distractions, and Explosive Payload
+dimwishlist:item=3924212056&perks=3436462433,3038247973				#PVP: Surplus, and Explosive Payload
+dimwishlist:item=3924212056&perks=3436462433,699525795				#PVP: Surplus, and Eye of the Storm
+
+	// Survivor's Epitaph, Kinetic, Precision, Crucible
+dimwishlist:item=310708513&perks=3436462433,699525795				#PVP: Surplus, and Eye of the Storm
+
+
+// Linear Fusion Rifle
+	// N/A
+	
+	
+// Machine Gun
+	// A Fine Memorial, Power Arc, Adaptive, Moon
+dimwishlist:item=3325778512&perks=3300816228,4104185692				#Auto-Loading Holster, and Frenzy	
+dimwishlist:item=3325778512&perks=1570042021,957782887				#PVP: Heating Up, and Snapshot Sights
+
+	// Archon's Thunder, Power Solar, High-Impact, Iron Banner
+dimwishlist:item=1967303408&perks=3436462433,957782887				#PVP: Surplus, and Snapshot Sights
+	
+	// Corrective Measure (has Timelost), Power Void, Adaptive, VoG
+dimwishlist:item=471518543&perks=3824105627							#Firefly
+dimwishlist:item=3796510434&perks=3824105627
+dimwishlist:item=471518543&perks=3436462433,1890422124				#PVP: Surplus, and Tap the Trigger
+dimwishlist:item=3796510434&perks=3436462433,1890422124
+dimwishlist:item=471518543&perks=3523296417,11612903				#Demolitionist, and Adrenaline Junkie
+dimwishlist:item=3796510434&perks=3523296417,11612903
+
+	// Shattered Cipher, Power Void, Rapid-Fire, Override
+dimwishlist:item=2434225986&perks=3300816228,3425386926				#Auto-Loading Holster, and Rampage
+
+
+// Pulse Rifle
+	// Gridskipper, Energy Void, Rapid-Fire, Override
+dimwishlist:item=1621558458&perks=4104185692						#Frenzy
+dimwishlist:item=1621558458&perks=957782887							#PVP: Snapshot Sights
+
+
+// Rocket Launcher
+	// Hezen Vengeance (has Timelost), Power Solar, Aggressive, VoG
+dimwishlist:item=4050645223&perks=3300816228,1546637391				#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=1921159786&perks=3300816228,1546637391
+dimwishlist:item=4050645223&perks=3300816228,3927722942				#Auto-Loading Holster, and Lasting Impression
+dimwishlist:item=1921159786&perks=3300816228,3927722942
+
+
+// Scout Rifle
+	// Hung Jury SR4 (has Adept), Kinetic, Precision, Nightfall
+dimwishlist:item=4281371574&perks=247725512,3824105627				#Rapid Hit, and Firefly
+dimwishlist:item=681067419&perks=247725512,3824105627
+
+	// Pleiades Corrector, Energy Solar, Lightweight, Umbral
+dimwishlist:item=3556999246&perks=3436462433,3592538738				#Surplus, and Wellspring
+																	
+	// Vision of Confluence (has Timelost), Energy Solar, Precision, VoG
+dimwishlist:item=3186018373&perks=3436462433,3824105627				#Surplus, and Firefly
+dimwishlist:item=690668916&perks=3436462433,3824105627
+
+
+// Shotgun
+	// Found Verdict (has Timelost), Energy Arc, Aggressive, VoG
+dimwishlist:item=3197270240&perks=1047830412,3436462433,47981717	#PVP: Full Choke, Surplus, and Opening Shot
+dimwishlist:item=631439337&perks=1047830412,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,3161816588,47981717	#PVP: Full Choke, Slideshot, and Opening Shot
+dimwishlist:item=631439337&perks=1047830412,3161816588,47981717
+
+	// One Small Step, Kinetic, Rapid-Fire, Moon
+dimwishlist:item=1016668089&perks=3300816228,2679249093				#Auto-Loading Holster, and One-Two Punch
+dimwishlist:item=1016668089&perks=3300816228,2360754333				#Auto-Loading Holster, and Trench Barrel
+	
+	// Riiswalker, Kinetic, Lightweight, Iron Banner
+dimwishlist:item=108221785&perks=1047830412,706527188,591790007		#PVP: Full Choke, Quickdraw, and Iron Reach
+	
+	// Sojourner's Tale, Energy Solar, Precision Slug, Override	
+dimwishlist:item=599895591&perks=706527188,47981717					#PVP: Quickdraw, and Opening Shot
+dimwishlist:item=599895591&perks=1840239774,588594999,47981717		#PVP: Fluted Barrel, Moving Target, and Opening Shot
+
+	// The Deicide, Energy Void, Rapid-Fire, Umbral
+dimwishlist:item=217140611&perks=1047830412,3161816588,3511092054	#PVP: Full Choke, Slideshot, and Elemental Capacitor
+
+
+// Sidearm
+	// Farewell, Kinetic, Lightweight, Override
+dimwishlist:item=541188001&perks=4267945040,4104185692				#Full Auto Trigger System, and Frenzy
+dimwishlist:item=541188001&perks=2846385770,1546637391				#Rangefinder, and Vorpal Weapon
+	
+	// The Vision, Energy Arc, Omolon Adaptive, Override
+dimwishlist:item=2414141462&perks=3436462433,1683379515				#Surplus, and Disruption Break
+dimwishlist:item=2414141462&perks=1631667848,4082225868				#Grave Robber, and Swashbuckler
+
+// Sniper Rifle
+	// Occluded Finality, Energy Arc, Aggressive, Iron Banner
+dimwishlist:item=852551895&perks=957782887,1546637391				#Snapshot Sights, and Vorpal Weapon
+	
+	// Praedyth's Revenge (has Timelost), Kinetic, Rapid-Fire, VoG
+dimwishlist:item=3653573172&perks=3824105627						#Firefly
+dimwishlist:item=1987769101&perks=3824105627
+
+	// Tranquility, Kinetic, Adaptive, Moon
+dimwishlist:item=1645386487&perks=2866798147,957782887				#PVP: No Distractions, and Snapshot Sights
+dimwishlist:item=1645386487&perks=3300816228,1771339417				#Auto-Loading Holster, and Firing Line
+	
+	// Twilight Oath, Energy Solar, Rapid-Fire, DreamingC
+dimwishlist:item=3297863558&perks=2866798147,1546637391				#No Distractions, and Vorpal Weapon
+dimwishlist:item=3297863558&perks=2866798147,957782887				#PVP: No Distractions, and Snapshot Sights
+	
+	// Uzume RR4 (has Adept), Energy Solar, Adaptive, Nightfall
+dimwishlist:item=2065081837&perks=957782887,1546637391				#PVP: Snapshot Sights, and Demolitionist
+dimwishlist:item=852228780&perks=957782887,1546637391
+
+
+// Submachine Gun
+	// Borrowed Time, Energy Solar, Aggressive, Gambit
+dimwishlist:item=875848769&perks=2779035018,3425386926				#Feeding Frenzy, and Rampage
+dimwishlist:item=875848769&perks=1359896290,1890422124				#PVP: Dynamic Sway Reduction, and Tap the Trigger
+	
+	// Every Waking Moment, Energy Void, Precision, Moon
+dimwishlist:item=4277547616&perks=2010801679,2458213969				#Ambitious Assassin, and Multikill Clip
+	
+	// Shayura's Wrath (has Adept), Energy Void, Precision, Trials
+dimwishlist:item=3682803680&perks=1359896290,1015611457				#Dynamic Sway Reduction, and Kill Clip
+dimwishlist:item=4023807721&perks=1359896290,1015611457
+dimwishlist:item=3682803680&perks=1359896290,1890422124				#PVP: Dynamic Sway Reduction, and Tap the Trigger
+dimwishlist:item=4023807721&perks=1359896290,1890422124
+	
+	// Stochastic Variable, Energy Arc, Lightweight, Override
+dimwishlist:item=2272470786&perks=2779035018,2458213969				#Feeding Frenzy, and Multikill Clip
+dimwishlist:item=2272470786&perks=3436462433,706527188				#PVP: Surplus, and Quickdraw
+
+
+// Sword
+	// Abide the Return, Power Solar, Adaptive, Moon
+dimwishlist:item=1644160541&perks=1749209109,3913600130				#Relentless Strikes, and Whirlwind Blade
+
+	// Crown-Splitter, Power Void, Aggressive, Umbral/World
+dimwishlist:item=2782325302&perks=1546637391						#Vorpal Weapon
+
+	// Eternity's Edge, Power Solar, Vortex, Umbral/World
+dimwishlist:item=2782325301&perks=2726471870354401740				#Thresh, and Assassin's Blade
+																	
+	// Night Terror, Power Arc, Adaptive, Moon
+dimwishlist:item=3870811754&perks=1749209109,1546637391				#Relentless Strikes, and Vorpal Weapon
+																	
+	// Quickfang, Power Void, Lightweight, Umbral/World
+dimwishlist:item=2782325300&perks=354401740							#Assassin's Blade
+
+
+// Trace Rifle
+	// N/A
+
+
+
+
+
+
+
+
+
+
+// Season of the Chosen (24 New + 11 Reissue = 35)
+// Weapon Type and Name												Perks
+// Auto Rifle
+	// Shadow Price (has Adept), Energy Arc, Precision, Nightfall
+dimwishlist:item=2633186522&perks=3643424744,1683379515				#Overflow, and Disruption Break
+dimwishlist:item=2147010335&perks=3643424744,1683379515
+
+
+// Combat Bow
+	// Imperial Needle, Energy Void, Lightweight, Battlegrounds
+dimwishlist:item=3460122497&perks=201365942,4104185692				#Archer's Tempo, and Frenzy
+dimwishlist:item=3460122497&perks=951095735,4104185692				#Impulse Amplifier, and Frenzy
+
+
+// Fusion Rifle
+	// Cartesian Coordinate, Energy Solar, Rapid-Fire, World
+dimwishlist:item=2481881293&perks=1546637391						#Vorpal Weapon
+dimwishlist:item=2481881293&perks=1645158859,2213355989				#PVP: Under Pressure, High-Impact Reserves
+
+	// Exile's Curse (has Adept), Energy Arc, High-Impact, Trials
+dimwishlist:item=679281855&perks=1546637391							#Vorpal Weapon
+dimwishlist:item=276080079&perks=1546637391				
+dimwishlist:item=679281855&perks=3161816588,1754714824				#PVP: Slideshot, and Kickstart
+dimwishlist:item=276080079&perks=3161816588,1754714824	
+dimwishlist:item=679281855&perks=2450788523,2213355989				#PVP: Killing Wind, and High-Impact Reserves
+dimwishlist:item=276080079&perks=2450788523,2213355989
+
+	// Trinary System, Energy Solar, Adaptive, Gambit
+dimwishlist:item=3258665412&perks=31645158859,1890422124			#PVP: Under Pressure, Tap the Trigger
+
+
+// Grenade Launcher
+	// Salvager's Salvo, Energy Arc, Lightweight, Seasonal Quest
+dimwishlist:item=2060863616&perks=2010801679,2396489472				#Curated: Ambitious Assassin, and Chain Reaction
+	
+	
+// Hand Cannon
+	// Bottom Dollar, Energy Void, Aggressive, Gambit
+dimwishlist:item=1046651176&perks=706527188,47981717				#PVP: Quickdraw, and Opening Shot
+dimwishlist:item=1046651176&perks=3436462433,3038247973				#PVP: Surplus, and Explosive Payload
+dimwishlist:item=1046651176&perks=3436462433,699525795				#PVP: Surplus, and Eye of the Storm
+
+	// Igneous Hammer (has Adept), Energy Solar, Aggressive, Trials
+dimwishlist:item=2351180975&perks=706527188,47981717				#PVP: Quickdraw, and Opening Shot
+dimwishlist:item=2527666306&perks=706527188,47981717
+dimwishlist:item=2351180975&perks=1264398905						#PVP: Celerity
+dimwishlist:item=2527666306&perks=1264398905				
+	
+	// The Palindrome (has Adept), Energy Void, Adaptive, Nightfall
+dimwishlist:item=432476743&perks=706527188,2846385770				#PVP: Quickdraw, and Rangefinder
+dimwishlist:item=1481892490&perks=706527188,2846385770
+
+	// Waking Vigil, Energy Arc, Adaptive, DreamingC
+dimwishlist:item=334171687&perks=2846385770,957782887				#PVP: Rangefinder, and Snapshot Sights
+dimwishlist:item=334171687&perks=2846385770,47981717				#PVP: Rangefinder, and Opening Shot
+	
+	
+// Linear Fusion Rifle
+	// Tarantula, Power Arc, Precision, World
+dimwishlist:item=3335343363&perks=2869569095,2551157718				#Field Prep, and Box Breathing
+dimwishlist:item=3335343363&perks=3096702027						#Genesis
+dimwishlist:item=3335343363&perks=2779035018,2848615171				#Feeding Frenzy, and Dragonfly
+
+	// Threaded Needle, Power Void, Precision, Battlegrounds
+dimwishlist:item=3075224551&perks=3300816228,1546637391				#Auto-Loading Holster, and Vorpal Weapon
+
+
+// Machine Gun
+	// The Swarm (has Adept), Power Arc, High-Impact, Nightfall
+dimwishlist:item=47772649&perks=2848615171							#Dragonfly
+dimwishlist:item=3836861464&perks=2848615171
+dimwishlist:item=47772649&perks=1546637391							#Vorpal Weapon
+dimwishlist:item=3836861464&perks=1546637391
+
+
+// Pulse Rifle
+	// The Messenger (has Adept), Kinetic, High-Impact, Trials
+dimwishlist:item=3658188704&perks=247725512,3047969693				#PVP: Rapid Hit, and Desperado	
+dimwishlist:item=1173780905&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,1264398905				#PVP: Rapid Hit, and Celerity	
+dimwishlist:item=1173780905&perks=247725512,1264398905
+
+	// The Time-worn Spire, Kinetic, Rapid-Fire, Iron Banner
+dimwishlist:item=3593598010&perks=2779035018,3425386926				#Feeding Frenzy, and Rampage
+dimwishlist:item=3593598010&perks=2779035018,1546637391				#Vorpal Weapon
+dimwishlist:item=3593598010&perks=588594999,11551321				#PVP: Moving Target, and Iron Grip
+
+	// Premonition, Energy Void, High-Impact, Moon
+dimwishlist:item=208088207&perks=3436462433,957782887				#PVP: Surplus, and Snapshot Sights
+
+	// The Third Axiom, Energy Arc, Adaptive, Vanguard
+dimwishlist:item=4156253727&perks=3436462433,3511092054				#PVP: Surplus, and Elemental Capacitor
+dimwishlist:item=4156253727&perks=3436462433,1546637391				#PVP: Surplus, and Vorpal Weapon	
+
+	
+// Rocket Launcher
+	// Code Duello, Power Solar, High-Impact, Battlegrounds
+dimwishlist:item=2496242052&perks=3300816228,2396489472				#Auto-Loading Holster, and Chain Reaction	
+dimwishlist:item=2496242052&perks=3300816228,3927722942				#Auto-Loading Holster, and Lasting Impression
+
+	// Heretic, Power Arc, Aggressive, Moon
+dimwishlist:item=3067821200&perks=951095735,3927722942				#Impulse Amplifier, and Lasting Impression	
+	
+	// Royal Entry, Power Void, Precision, Vanguard
+dimwishlist:item=2448907086&perks=3300816228,3927722942				#Auto-Loading Holster, and Lasting Impression
+
+	// Sleepless, Power Arc, High-Impact, DreamingC
+dimwishlist:item=3740842661&perks=3300816228,1546637391				#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=3740842661&perks=3300816228,2396489472				#Auto-Loading Holster, and Chain Reaction
+
+	// Tomorrow's Answer (has Adept), Power Void, High-Impact, Trials
+dimwishlist:item=958384347&perks=3300816228,2396489472				#Auto-Loading Holster, and Chain Reaction
+dimwishlist:item=1366917989&perks=3300816228,2396489472
+
+
+// Scout Rifle
+	// Eternal Blazon, Energy Arc, Lightweight, World
+dimwishlist:item=3514096004&perks=4267945040,1683379515				#Full Auto Trigger System, and Disruption Break
+dimwishlist:item=3514096004&perks=247725512,1683379515				#Rapid Hit, and Disruption Break	
+
+	// Vouchsafe, Energy Void, Lightweight, DreamingC
+dimwishlist:item=3242168339&perks=247725512,3038247973				#Rapid Hit, and Explosive Payload
+dimwishlist:item=3242168339&perks=247725512,1546637391				#Rapid Hit, and Vorpal Weapon
+dimwishlist:item=3242168339&perks=247725512,2848615171				#Rapid Hit, and Dragonfly
+	
+	
+// Shotgun
+	// Astral Horizon (has Adept), Kinetic, Aggressive, Trials
+dimwishlist:item=1697682876&perks=1047830412,3436462433,1264398905	#PVP: Full Choke, Surplus, and Celerity
+dimwishlist:item=532746994&perks=1047830412,3436462433,1264398905
+dimwishlist:item=1697682876&perks=1047830412,3436462433,47981717	#PVP: Full Choke, Surplus, and Opening Shot
+dimwishlist:item=532746994&perks=1047830412,3436462433,1264398905	
+
+	// Blasphemer, Kinetic, Precision Slug, Moon
+dimwishlist:item=2782847179&perks=706527188,47981717				#PVP: Quickdraw, and Opening Shot
+
+	// Retold Tale, Energy Void, Precision, DreamingC
+dimwishlist:item=346136302&perks=1047830412,706527188,957782887		#PVP: Full Choke, Quickdraw, and Snapshot Sights
+dimwishlist:item=346136302&perks=1047830412,3161816588,957782887	#PVP: Full Choke, Slideshot, and Snapshot Sights
+
+	// Retrofuturist, Energy Void, Lightweight, World
+dimwishlist:item=1402766122&perks=1047830412,706527188,957782887	#PVP: Full Choke, Quickdraw, and Snapshot Sights
+dimwishlist:item=1402766122&perks=1047830412,1866048759,957782887	#PVP: Full Choke, Hip-Fire Grip, and Snapshot Sights
+	
+	
+// Sidearm
+	// Brass Attacks, Energy Void, Aggressive Burst, Battlegrounds
+dimwishlist:item=2121785039&perks=4071163871,3425386926				#Threat Detector, and Rampage
+dimwishlist:item=2121785039&perks=4071163871,4104185692				#Threat Detector, and Frenzy
+
+	// The Keening, Energy Arc, Adaptive Frame, Crucible
+dimwishlist:item=409551876&perks=4071163871,1546637391				#Threat Detector, and Vorpal Weapon
+
+
+// Sniper Rifle
+	// Apostate, Energy Arc, Rapid-Fire, Moon
+dimwishlist:item=2164448701&perks=2866798147,47981717				#No Distractions, and Opening Shot
+
+	// Far Future, Energy Solar, Adaptive, Battlegrounds
+dimwishlist:item=893527433&perks=3436462433,47981717				#PVP: Surplus, and Opening Shot
+
+	// Frozen Orbit, Energy Void, Aggressive, Crucible
+dimwishlist:item=3473290087&perks=3300816228,1546637391				#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=3473290087&perks=2866798147,957782887				#PVP: No Distractions, and Snapshot Sights	
+dimwishlist:item=3473290087&perks=2450788523,1015611457				#Killing Wind, and Kill Clip
+
+
+// Submachine Gun
+	// Extraordinary Rendition, Kinetic, Aggressive, Battlegrounds
+dimwishlist:item=1097616550&perks=3436462433,3425386926				#Surplus, and Rampage
+
+	// Multimach CCX, Kinetic, Lightweight, Iron Banner
+dimwishlist:item=3717177717&perks=4071163871,1015611457				#Threat Detector, and Kill Clip
+dimwishlist:item=3717177717&perks=1359896290,11551321				#PVP: Dynamic Sway Reduction, and Iron Grip
+
+
+// Sword
+	// Sola's Scar (has Adept), Power Solar, Caster, Trials
+dimwishlist:item=1313528549&perks=2396489472						#Chain Reaction
+dimwishlist:item=3847137620&perks=2396489472
+
+
+// Trace Rifle
+	// N/A
+
+
+
+
+
+
+
+
+
+
+// Season of the Hunt
+// Weapon Type and Name												Perks
+// Auto Rifle
+	// Arctic Haze, Energy Solar, Rapid-Fire, Europa
+dimwishlist:item=20935540&perks=1820235745,2848615171				#Subsistence, and Dragonfly
+
+
+// Combat Bow
+	// Biting Winds, Kinetic, Precision, Empire
+dimwishlist:item=1621657423&perks=2450788523,4082225868 			#Killing Wind, and Swashbuckler
+dimwishlist:item=1621657423&perks=3365897133 						#Explosive Head
+
+
+// Fusion Rifle
+	// Coriolis Force, Energy Void, Aggressive, Empire
+dimwishlist:item=3512349612&perks=2779035018,2726471870 			#Feeding Frenzy, and Thresh
+
+	// Glacioclasm, Energy Void, High-Impact, Dawning
+dimwishlist:item=1030895163&perks=3161816588,1427256713				#Slideshot, and Reservoir Burst
+dimwishlist:item=1030895163&perks=1820235745,1427256713				#Subsistence, and Reservoir Burst
+dimwishlist:item=1030895163&perks=1645158859,2213355989				#PVP: Under Pressure, and High-Impact Reserves
+dimwishlist:item=1030895163&perks=2450788523,2213355989				#PVP: Killing Wind, and High-Impact Reserves
+
+
+// Grenade Launcher
+	// Deafening Whisper, Energy Void, Wave, Wrath
+dimwishlist:item=981718087&perks=3436462433,3425386926 				#Surplus, and Rampage
+dimwishlist:item=981718087&perks=556840489,3300816228 				#Lead from Gold, and Auto-Loading Holster
+
+	// Blast Battue, Power Arc, Adaptive, Wrath
+dimwishlist:item=2453357042&perks=2396489472						#Chain Reaction
+	
+	// Crowd Pleaser, Power Void, Adaptive, Gambit 					
+dimwishlist:item=3565520715&perks=2396489472						#Chain Reaction	
+	
+	
+// Hand Cannon
+	// The Steady Hand, Kinetic, Aggressive, Iron Banner
+dimwishlist:item=2220884262&perks=706527188,957782887  				#PVP: Quickdraw, and Snapshot Sights
+
+	// Posterity, Energy Arc, Precision, DSC
+dimwishlist:item=3281285075&perks=247725512,3425386926 				#Rapid Hit, and Rampage	
+dimwishlist:item=3281285075&perks=1523832109,3425386926 			#Reconstruction, and Rampage
+
+	
+// Linear Fusion Rifle
+	// Corsair's Wrath, Power Solar, Precision, Wrath
+dimwishlist:item=2714022207&perks=1168162263,1015611457 			#Outlaw, and Kill Clip
+
+
+// Machine Gun
+	// Avalanche, Power Solar, Adaptive, Dawning
+dimwishlist:item=66875353&perks=3436462433,2848615171				#Surplus, and Dragonfly
+dimwishlist:item=66875353&perks=3300816228,1546637391				#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=66875353&perks=3436462433,1890422124				#PVP: Surplus, and Tap the Trigger
+
+	// Commemoration, Power Void, Adaptive, DSC
+dimwishlist:item=4230965989&perks=1523832109,2848615171				#Reconstruction, and Dragonfly
+dimwishlist:item=4230965989&perks=1523832109,3425386926 			#Reconstruction, and Rampage
+dimwishlist:item=4230965989&perks=3436462433,1645158859				#PVP: Surplus, and Under Pressure
+	
+	// Thermal Erosion, Power Solar, Rapid-Fire, Empire
+dimwishlist:item=1766088024&perks=2869569095,3523296417 			#Field Prep, and Demolitionist
+dimwishlist:item=1766088024&perks=957782887 						#PVP: Snapshot Sights
+
+
+// Pulse Rifle
+	// Hailing Confusion, Kinetic, Adaptive, Europa
+dimwishlist:item=2870169846&perks=3436462433						#Surplus
+dimwishlist:item=2870169846&perks=3436462433,3511092054				#PVP: Surplus, and Elemental Capacitor
+	
+	// Stars in Shadow, Energy Solar, High-Impact, Crucible
+dimwishlist:item=2050789284&perks=3436462433,1546637391				#Surplus, and Vorpal Weapon
+dimwishlist:item=2050789284&perks=3436462433,957782887 				#PVP: Surplus, and Snapshot Sights
+
+
+// Rocket Launcher
+	// Subzero Salvo, Power Arc, Precision, Europa
+dimwishlist:item=42351395&perks=2010801679,2396489472				#Ambitious Assassin, and Chain Reaction
+
+
+// Scout Rifle
+	// The Guiding Sight, Kinetic, High-Impact, Iron Banner
+dimwishlist:item=1641430382&perks=247725512,1546637391 				#Rapid Hit, and Vorpal Weapon
+dimwishlist:item=1641430382&perks=3436462433,11551321				#PVP: Surplus, and Iron Grip
+
+	// Royal Chase, Energy Void, Precision, Wrath
+dimwishlist:item=2776503072&perks=4267945040,2458213969 			#Full Auto Trigger System, and Multikill Clip
+dimwishlist:item=2776503072&perks=4267945040,2848615171 			#Full Auto Trigger System, and Dragonfly
+
+	// Trustee, Energy Solar, Rapid-Fire, DSC
+dimwishlist:item=1392919471&perks=3436462433,3201496230 			#Surplus, and Redirection
+	
+	
+// Shotgun
+	// Heritage, Kinetic, Precision Slug, DSC
+dimwishlist:item=4248569242&perks=3300816228,469285294				#Auto-Loading Holster, and Recombination
+dimwishlist:item=4248569242&perks=1866048759,957782887				#PVP: Hip-Fire Grip, and Snapshot Sights
+dimwishlist:item=4248569242&perks=1866048759,588594999				#PVP: Hip-Fire Grip, and Moving Target
+
+	// Bonechiller, Energy Void, Precision Slug, Europa
+dimwishlist:item=4037745684&perks=3436462433,47981717				#PVP: Surplus, and Opening Shot
+
+	// Xenoclast IV, Energy Arc, Lightweight, Vanguard
+dimwishlist:item=2891672170&perks=1631667848,2679249093 			#Grave Robber, and One-Two Punch
+dimwishlist:item=2891672170&perks=3300816228,2360754333 			#Auto-Loading Holster, and Trench Barrel
+dimwishlist:item=2891672170&perks=1047830412,3161816588,4082225868	#PVP: Full Choke, Slideshot, and Swashbuckler
+
+		
+// Sidearm
+	// High Albedo, Kinetic, Adaptive, Europa
+dimwishlist:item=1197486957&perks=3436462433,3523296417 			#Surplus, and Demolitionist
+
+
+// Sniper Rifle
+	// Adored, Energy Arc, Adaptive, Seasonal Quest
+dimwishlist:item=4184808992&perks=3400784728,1546637391				#Curated: Triple Tap, and Vorpal Weapon
+
+	// Succession, Kinetic, Aggressive, DSC
+dimwishlist:item=2990047042&perks=1523832109,1546637391 			#Reconstruction, and Vorpal Weapon
+dimwishlist:item=2990047042&perks=2866798147,957782887 				#PVP: No Distractions, and Snapshot Sights
+
+
+// Submachine Gun
+	// Cold Front, Kinetic, Aggressive, Dawning
+dimwishlist:item=1506719573&perks=3436462433,3425386926 			#Surplus, and Rampage
+																	
+	// Friction Fire, Kinetic, Precision, Wrath
+dimwishlist:item=1513993763&perks=3300816228,1546637391 			#Auto-Loading Holster, and Vorpal Weapon
+
+
+// Sword
+	// Bequest, Power, Adaptive, DSC 						
+dimwishlist:item=3366545721&perks=2726471870354401740				#Thresh, and Assassin's Blade
+
+// Trace Rifle
+	// N/A
+
+
+
+
+
+
+
+
+
+// How to import this Wishlist: DIM --> Settings --> Wish List --> Load Wish List Rolls
+// My Definitive GR Wishlist
+	// Including Every Weapon Type and Weapon Slot
+	// Not Necessarily Including Every Weapon Frame or Element.
+
+// Weapon Type and Name																	Perks
+// Auto Rifle
+	// Arctic Haze, Energy Solar, Rapid-Fire, Europa
+dimwishlist:item=20935540&perks=1820235745,2848615171									#Subsistence, and Dragonfly
+
+	// Arc Logic, Energy Arc, Adaptive, Moon
+dimwishlist:item=2723909519&perks=1820235745,3425386926									#Subsistence, and Rampage
+
+	// Braytech Werewolf, Kinetic, Precision, FotL
+dimwishlist:item=528834068&perks=839105230,1561002382,1359896290,699525795				#PVP: Arrowhead Brake, High-Caliber Rounds, Dynamic Sway Reduction, and Eye of the Storm
+
+	// Chroma Rush, Kinetic, Rapid-Fire, Override
+dimwishlist:item=1119734784&perks=1820235745,3425386926									#Subsistence, and Rampage
+
+	// Chrysura Melo, Energy Solar, High-Impact, AstA
+dimwishlist:item=1337707096&perks=127335543,4104185692									#Dynamic Sway Reduction, and Frenzy
+
+	// Gnawing Hunger, Energy Void, Adaptive, World
+dimwishlist:item=821154603&perks=1820235745,3425386926									#Subsistence, and Rampage
+
+
+	// Scathelocke, Kinetic, Adaptive, World
+dimwishlist:item=602618796&perks=1820235745,3425386926									#Subsistence, and Rampage
+dimwishlist:item=602618796&perks=839105230,3142289711,3436462433,699525795				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Eye of the Storm
+
+	// Seventh Seraph Carbine, Kinetic, Precision, World
+dimwishlist:item=1561006927&perks=1968497646,3300816228,1546637391						#Armor-Piercing Rounds, Auto-Loading Holster, and Vorpal Weapon
+
+	// Shadow Price (has Adept), Energy Arc, Precision, Nightfall
+dimwishlist:item=2633186522&perks=3643424744,1683379515									#Overflow, and Disruption Break
+dimwishlist:item=2147010335&perks=3643424744,1683379515
+
+	// Sorrow's Verse, Energy Arc, Adaptive, Crucible
+dimwishlist:item=2496875173&perks=1820235745,3425386926									#Subsistence, and Rampage
+dimwishlist:item=2496875173&perks=839105230,3142289711,127335543,3511092054				#PVP: Arrowhead Brake, Accurized Rounds, Dynamic Sway Reduction, and Elemental Capacitor
+
+	// The Forward Path, Kinetic, Adaptive, Iron Banner
+dimwishlist:item=1690783811&perks=1968497646,1631667848,4082225868						#Armor-Piercing Rounds, Grave Robber, and Swashbuckler
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,699525795			#PVP: Red Dot Micro, Accurized Rounds, Dynamic Sway Reduction, and Eye of the Storm
+	
+	// The last Breath, Kinetic, Adaptive, To9
+dimwishlist:item=507038823&perks=3523296417,11612903									#Demolitionist, and Adrenaline Junkie
+
+	// The Summoner (has Adept), Energy Solar, Adaptive, Trials
+dimwishlist:item=1907698332&perks=839105230,1561002382,127335543,3511092054				#PVP: Arrowhead Brake, High-Caliber Rounds, Dynamic Sway Reduction, and Elemental Capacitor
+dimwishlist:item=3514144928&perks=839105230,1561002382,127335543,3511092054
+
+
+// Combat Bow
+	// Accrued Redemption, Kinetic, Precision, GoS
+dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3365897133			#Elastic String, Straight Fletching, Archer's Tempo, and Explosive Head
+
+	// Arsenic Bite-4B, Energy Arc, Lightweight, World
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,3365897133			#Elastic String, Fiberglass Arrow Shaft, Rampage, and Explosive Head
+dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,201365942				#Elastic String, Fiberglass Arrow Shaft, Rampage, and Archer's Tempo
+
+	// Biting Winds, Kinetic, Precision, Empire
+dimwishlist:item=1621657423&perks=2801223209,3429800428,3365897133 						#Elastic String, Fiberglass Arrow Shaft, Explosive Head
+
+	// Imperial Needle, Energy Void, Lightweight, Battlegrounds
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692			#Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, and Frenzy
+dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,4104185692			#Elastic String, Fiberglass Arrow Shaft, Impulse Amplifier, and Frenzy
+
+	// Point of the Stag, Energy Arc, Precision, Iron Banner
+dimwishlist:item=3434944005&perks=201365942,1546637391									#Curated: Archer's Tempo, and Vorpal Weapon
+
+	// Tyranny of Heaven, Energy Solar, Lightweight, LW
+dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3365897133			#Elastic String, Straight Fletching, Archer's Tempo, and Explosive Head
+
+	// Whispering Slab, Kinetic, Lightweight, World
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391				#Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, and Vorpal Weapon
+
+	// Wolftone Draw, Energy Arc, Precision, AstA
+dimwishlist:item=3472875143&perks=2801223209,3429800428,951095735,4104185692			#Elastic String, Fiberglass Arrow Shaft, Impulse Amplifier, and Frenzy
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,4104185692			#Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, and Frenzy
+
+
+// Fusion Rifle
+	// Cartesian Coordinate, Energy Solar, Rapid-Fire, World
+dimwishlist:item=2481881293&perks=1546637391											#Vorpal Weapon
+dimwishlist:item=2481881293&perks=2405638014,3868766766,1645158859,2213355989			#PVP: Red Dot Micro, Particle Repeater, Under Pressure, and High-Impact Reserves
+
+	// Coriolis Force, Energy Void, Aggressive, Empire
+dimwishlist:item=3512349612&perks=2779035018,2726471870 								#Feeding Frenzy, and Thresh
+
+	// Dream Breaker, Energy Solar, Adaptive, Moon
+dimwishlist:item=2931957300&perks=839105230,2969185026,1645158859,2213355989			#PVP: Arrowhead Brake, Projection Fuse, Under Pressure, and High-Impact Reserves
+
+	// Exile's Curse (has Adept), Energy Arc, High-Impact, Trials
+dimwishlist:item=679281855&perks=1546637391												#Vorpal Weapon
+dimwishlist:item=276080079&perks=1546637391				
+dimwishlist:item=679281855&perks=839105230,2969185026,3161816588,1754714824				#PVP: Arrowhead Brake, Projection Fuse, Slideshot, and Kickstart
+dimwishlist:item=276080079&perks=839105230,2969185026,3161816588,1754714824
+dimwishlist:item=679281855&perks=839105230,2969185026,2450788523,2213355989				#PVP: Killing Wind, and High-Impact Reserves
+dimwishlist:item=276080079&perks=839105230,2969185026,2450788523,2213355989	
+
+	// Glacioclasm, Energy Void, High-Impact, Dawning
+dimwishlist:item=1030895163&perks=3161816588,1427256713									#Slideshot, and Reservoir Burst
+dimwishlist:item=1030895163&perks=1820235745,1427256713									#Subsistence, and Reservoir Burst
+dimwishlist:item=1030895163&perks=839105230,2969185026,1645158859,2213355989			#PVP: Arrowhead Brake, Projection Fuse, Under Pressure, and High-Impact Reserves
+dimwishlist:item=1030895163&perks=839105230,2969185026,2450788523,2213355989			#PVP: Arrowhead Brake, Projection Fuse, Killing Wind, and High-Impact Reserves
+
+	// Hollow Words, Energy Arc, Precision, World
+dimwishlist:item=607191995&perks=1546637391												#Vorpal Weapon
+
+	// Iota Draconis, Energy Solar, High-Impact, AstA
+dimwishlist:item=3044460004&perks=839105230,2969185026,1645158859,2213355989			#PVP: Arrowhead Brake, Projection Fuse, Under Pressure, and High-Impact Reserves
+
+	// Main Ingredient, Energy Arc, Precision, World
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124			#PVP: Red Dot Micro, Projection Fuse, Under Pressure, and Tap the Trigger
+
+	// Null Composure, Energy Void, Rapid-Fire, Seasonal Quest
+dimwishlist:item=1644680957&perks=2779035018,1427256713									#Curated: Feeding Frenzy, and Reservoir Burst
+
+	// Plug One.1 (has Adept), Energy Arc, Precision, Nightfall
+dimwishlist:item=1289000550&perks=2779035018,1427256713									#Feeding Frenzy, and Reservoir Burst
+dimwishlist:item=534775659&perks=2779035018,1427256713
+
+	// Techeun Force, Energy Arc, Adaptive, LW
+dimwishlist:item=4094657108&perks=1015611457,3425386926									#Kill Clip, and Rampage
+dimwishlist:item=4094657108&perks=839105230,2969185026,1645158859,2213355989			#PVP: Arrowhead Brake, Projection Fuse, Under Pressure, and High-Impact Reserves
+
+	// Timelines' Vertex, Energy Solar, Adaptive, World
+dimwishlist:item=3055192515&perks=3275789089,1683379515									#Shield Disorient, and Disruption Break
+
+	// Trinary System, Energy Solar, Adaptive, Gambit
+dimwishlist:item=3258665412&perks=839105230,2969185026,31645158859,1890422124			#PVP: Arrowhead Brake, Projection Fuse, Under Pressure, Tap the Trigger
+
+	// Zealot's Reward, Energy Void, Rapid-Fire, GoS
+dimwishlist:item=2209003210&perks=3275789089,1683379515									#Shield Disorient, and Disruption Break
+dimwishlist:item=2209003210&perks=3275789089,3425386926									#Shield Disorient, and Rampage
+dimwishlist:item=2209003210&perks=839105230,3868766766,1645158859,2213355989			#PVP: Arrowhead Brake, Particle Repeater, Under Pressure, High-Impact Reserves
+
+
+// Grenade Launcher
+	// Berenger's Memory, Power Void, Rapid-Fire, World
+dimwishlist:item=407621213&perks=2869569095,3300816228									#Field Prep, and Auto-Loading Holster
+dimwishlist:item=407621213&perks=972757866												#Pulse Monitor
+
+	// Blast Battue, Power Arc, Adaptive, Wrath
+dimwishlist:item=2453357042&perks=2284787283,2396489472									#Clown Cartridge, and Chain Reaction
+
+	// Canis Major, Power Solar, Rapid-Fire, AstA
+dimwishlist:item=2066434718&perks=951095735,2396489472									#Impulse Amplifier, and Chain Reaction
+
+	// Deafening Whisper, Energy Void, Wave, Wrath
+dimwishlist:item=981718087&perks=981914802,2822142346,3436462433,3425386926 			#Hard Launch, High-Velocity Rounds, Surplus, and Rampage
+dimwishlist:item=981718087&perks=981914802,2822142346,1556840489,3300816228 			#Hard Launch, High-Velocity Rounds, Lead from Gold, and Auto-Loading Holster
+
+
+	// Empty Vessel, Energy Solar, Lightweight, Vanguard
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515						#Blinding Grenades, Auto-Loading Holster, and Disruption Break
+dimwishlist:item=4255586669&perks=981914802,3301904089,2010801679,2458213969			#Hard Launch, Spike Grenades, Ambitious Assassin, and Multikill Clip
+dimwishlist:item=4255586669&perks=981914802,3300816228,1683379515						#PVP: Hard Launch, Auto-Loading Holster, and Disruption Break
+
+	// Ignition Code, Kinetic, Lightweight, Override
+dimwishlist:item=304659313&perks=3032599245,3161816588,3523296417						#Blinding Grenades, and Slideshot, and Demolitionist
+dimwishlist:item=304659313&perks=981914802,3301904089,2010801679						#Hard Launch, Spike Grenades, and Ambitious Assassin
+
+	// Interference VI, Power Arc, Adaptive, World
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110			#Hard Launch, Spike Grenades, Auto-Loading Holster, and Full Court
+
+	// Love and Death, Power Solar, Rapid-Fire, Moon
+dimwishlist:item=3690523502&perks=981914802,3301904089,3300816228,2888557110			#Hard Launch, Spike Grenades, Auto-Loading Holster, and Full Court
+dimwishlist:item=3690523502&perks=3300816228,2396489472									#Auto-Loading Holster, and Chain Reaction
+
+	// Memory Interdict, Power Void, Adaptive, World
+dimwishlist:item=3165547384&perks=3300816228,2396489472									#Auto-Loading Holster, and Chain Reaction
+
+	// Orewing's Maul, Energy Void, Lightweight, World
+dimwishlist:item=2108920981&perks=3032599245,2869569095,3300816228						#Blinding Grenades, Field Prep, and Auto-Loading Holster
+
+	// Pardon Our Dust, Kinetic, Lightweight, DoE
+dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156						#Blinding Grenades, Auto-Loading Holster, and Danger Zone
+dimwishlist:item=3849810018&perks=981914802,3301904089,2621346526,1546637391			#Hard Launch, Spike Grenades, Ensemble, and Vorpal Weapon
+dimwishlist:item=3849810018&perks=3301904089,2010801679,3425386926						#Spike Grenades, Ambitious Assassin, and Rampage
+
+	// Salvager's Salvo, Energy Arc, Lightweight, Seasonal Quest
+dimwishlist:item=2060863616&perks=2010801679,2396489472									#Curated: Ambitious Assassin, and Chain Reaction
+
+	// Truthteller, Energy Void, Lightweight, World
+dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515						#Blinding Grenades, Auto-Loading Holster, Disruption Break
+dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,4082225868			#Hard Launch, Spike Grenades, Feeding Frenzy, and Swashbuckler
+dimwishlist:item=1946491241&perks=981914802,3300816228,1683379515						#PVP: Hard Launch, Auto-Loading Holster, and Disruption Break
+
+	
+// Hand Cannon
+	// Ancient Gospel, Energy Solar, Adaptive, GoS
+dimwishlist:item=48643186&perks=1482024992,3142289711,699525795,2846385770				#PVP: Smallbore, Accurized Rounds, Eye of the Storm, and Rangefinder
+
+	// Annual Skate, Energy Solar, Adaptive, World
+dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,1954620775				#PVP: Steadyhand HCS, Accurized Rounds, Surplus, and Timed Payload
+
+	// Bottom Dollar, Energy Void, Aggressive, Gambit
+dimwishlist:item=1046651176&perks=839105230,3142289711,3436462433,3038247973			#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Explosive Payload
+dimwishlist:item=1046651176&perks=839105230,3142289711,3436462433,699525795				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Eye of the Storm
+
+	// Crimil's Dagger, Kinetic, Aggressive, World
+dimwishlist:item=4292849692&perks=1926090095,3142289711,957782887,1954620775			#PVP: Steadyhand HCS, Accurized Rounds, Snapshot Sights, and Timed Payload
+
+	// Eyasluna, Kinetic, Adaptive, GoA
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,588594999				#PVP: Truesight HCS, Ricochet Rounds, Rapid Hit, and Moving Target
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,588594999				#PVP: Truesight HCS, Ricochet Rounds, Rangefinder, and Moving Target
+
+	// Fatebringer (has Timelost), Kinetic, Adaptive, VoG
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,699525795			#PVP: Smallbore, Accurized Rounds, Explosive Payload, and Eye of the Storm
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,699525795
+
+	// Finite Impactor, Energy Arc, Adaptive, Iron Banner
+dimwishlist:item=3813153080&perks=1926090095,1561002382,2866798147,699525795			#PVP: Steadyhand HCS, High-Caliber Rounds, No Distractions, Eye of the Storm
+dimwishlist:item=3813153080&perks=1926090095,1885400500,2866798147,699525795			#PVP: Steadyhand HCS, Ricochet Rounds, No Distractions, Eye of the Storm
+
+	// Igneous Hammer (has Adept), Energy Solar, Aggressive, Trials
+dimwishlist:item=2351180975&perks=839105230,1885400500,706527188,47981717				#PVP: Arrowhead Brake, Ricochet Rounds, Quickdraw, and Opening Shot
+dimwishlist:item=2527666306&perks=839105230,1885400500,706527188,47981717
+dimwishlist:item=2351180975&perks=839105230,1885400500,1264398905						#PVP: Arrowhead Brake, Ricochet Rounds, and Celerity
+dimwishlist:item=2527666306&perks=839105230,1885400500,1264398905
+
+	// Judgment, Kinetic, Adaptive, To9
+dimwishlist:item=1476654960&perks=3523296417,11612903									#Demolitionist, and Adrenaline Junkie
+
+	// Loud Lullaby, Kinetic, Aggressive, Moon
+dimwishlist:item=3924212056&perks=1840239774,3142289711,2866798147,3038247973			#PVP: Fluted Barrel, Accurized Rounds, No distractions, and Explosive Payload
+dimwishlist:item=3924212056&perks=1840239774,3142289711,3436462433,3038247973			#PVP: Fluted Barrel, Accurized Rounds, Surplus, and Explosive Payload
+dimwishlist:item=3924212056&perks=1840239774,3142289711,3436462433,699525795			#PVP: Fluted Barrel, Accurized Rounds, Surplus, and Eye of the Storm
+
+	// Nation of Beasts, Energy Arc, Adaptive, LW
+dimwishlist:item=654370424&perks=1482024992,3142289711,47981717,3038247973				#PVP: Smallbore, Accurized Rounds, Opening Shot, and Explosive Payload
+
+	// Nature of the Beast, Energy Arc, Precision, World
+dimwishlist:item=1835747805&perks=1926090093,3142289711,957782887,2846385770			#PVP: Hitmark HCS, Accurized Rounds, Snapshot Sights, and Rangefinder
+
+	// Seventh Seraph Officer Revolver, Kinetic, Precision, World
+dimwishlist:item=3037520408&perks=839105230,3142289711,972757866,1954620775				#PVP: Arrowhead Brake, Accurized Rounds, Pulse Monitor, and Timed Payload
+
+	// Survivor's Epitaph, Kinetic, Precision, Crucible
+dimwishlist:item=310708513&perks=839105230,1561002382,3436462433,699525795				#PVP: Arrowhead Brake, High-Caliber Rounds, Surplus, and Eye of the Storm
+dimwishlist:item=310708513&perks=839105230,1885400500,3436462433,699525795				#PVP: Arrowhead Brake, Ricochet Rounds, Surplus, and Eye of the Storm
+
+	// The Palindrome (has Adept), Energy Void, Adaptive, Nightfall
+dimwishlist:item=432476743&perks=1482024992,1561002382,706527188,2846385770				#PVP: Smallbore, High-Caliber Rounds, Quickdraw, and Rangefinder
+dimwishlist:item=1481892490&perks=1482024992,1561002382,706527188,2846385770
+dimwishlist:item=432476743&perks=1482024992,1885400500,706527188,2846385770				#PVP: Smallbore, Ricochet Rounds, Quickdraw, and Rangefinder
+dimwishlist:item=1481892490&perks=1482024992,1885400500,706527188,2846385770
+
+	// The Steady Hand, Kinetic, Aggressive, Iron Banner
+dimwishlist:item=2220884262&perks=1926090095,1885400500,706527188,957782887 			#PVP: Steadyhand HCS, Ricochet Rounds, Quickdraw, and Snapshot Sights
+dimwishlist:item=2220884262&perks=1926090095,1885400500,706527188,11551321 				#PVP: Steadyhand HCS, Ricochet Rounds, Quickdraw, and Iron Grip
+	
+	// True Prophecy, Kinetic, Aggressive, World
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,1954620775			#PVP: Steadyhand HCS, Accurized Rounds, Rangedfinder, and Timed Payload
+	
+
+// Linear Fusion Rifle
+	// Corsair's Wrath, Power Solar, Precision, Wrath
+dimwishlist:item=2714022207&perks=1168162263,1015611457 								#Outlaw, and Kill Clip
+	
+	// Reed's Regret (has Adept), Power Stasis, Precision, Trials
+dimwishlist:item=1399243961&perks=3400784728,1546637391									#Triple Tap, and Vorpal Weapon
+dimwishlist:item=2475355656&perks=3400784728,1546637391
+dimwishlist:item=1399243961&perks=3400784728,1771339417									#Triple Tap, and Firing Line
+dimwishlist:item=2475355656&perks=3400784728,1771339417
+	
+	// Tarantula, Power Arc, Precision, World
+dimwishlist:item=3335343363&perks=2869569095,2551157718									#Field Prep, and Box Breathing
+dimwishlist:item=3335343363&perks=3096702027											#Genesis
+dimwishlist:item=3335343363&perks=2779035018,2848615171									#Feeding Frenzy, and Dragonfly
+	
+	// Threaded Needle, Power Void, Precision, Battlegrounds
+dimwishlist:item=3075224551&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+
+
+// Machine Gun
+	// A Fine Memorial, Power Arc, Adaptive, Moon
+dimwishlist:item=3325778512&perks=3300816228,4104185692									#Auto-Loading Holster, and Frenzy	
+dimwishlist:item=3325778512&perks=839105230,1561002382,1570042021,957782887				#PVP: Arrowhead Brake, High-Caliber Rounds, Heating Up, and Snapshot Sights
+
+	// Archon's Thunder, Power Solar, High-Impact, Iron Banner
+dimwishlist:item=1967303408&perks=839105230,3142289711,3436462433,957782887				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Snapshot Sights
+
+	// Avalanche, Power Solar, Adaptive, Dawning
+dimwishlist:item=66875353&perks=3436462433,2848615171									#Surplus, and Dragonfly
+dimwishlist:item=66875353&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=66875353&perks=1885400500,3436462433,1890422124						#PVP: Ricochet Rounds, Surplus, and Tap the Trigger
+
+	// Commemoration, Power Void, Adaptive, DSC
+dimwishlist:item=4230965989&perks=1523832109,2848615171 								#Reconstruction, and Dragonfly	
+dimwishlist:item=4230965989&perks=1523832109,3425386926 								#Reconstruction, and Rampage
+dimwishlist:item=4230965989&perks=839105230,3142289711,3436462433,1645158859			#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Under Pressure
+
+	// Corrective Measure (has Timelost), Power Void, Adaptive, VoG
+dimwishlist:item=471518543&perks=3824105627												#Firefly
+dimwishlist:item=3796510434&perks=3824105627
+dimwishlist:item=471518543&perks=839105230,3142289711,3436462433,1890422124				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Tap the Trigger
+dimwishlist:item=3796510434&perks=839105230,3142289711,3436462433,1890422124
+dimwishlist:item=471518543&perks=3523296417,11612903									#Demolitionist, and Adrenaline Junkie
+dimwishlist:item=3796510434&perks=3523296417,11612903
+
+	// Seventh Seraph Saw, Power Arc, High-Impact, World
+dimwishlist:item=2582755344&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+
+	// Shattered Cipher, Power Void, Rapid-Fire, Override
+dimwishlist:item=2434225986&perks=3300816228,3425386926									#Auto-Loading Holster, and Rampage
+dimwishlist:item=2434225986&perks=839105230,3142289711,1645158859,957782887				#PVP: Arrowhead Brake, Accurized Rounds, Under Pressure, and Snapshot Sights
+
+	// Thermal Erosion, Power Solar, Rapid-Fire, Empire
+dimwishlist:item=1766088024&perks=2869569095,3523296417 								#Field Prep, and Demolitionist
+dimwishlist:item=1766088024&perks=839105230,1561002382,957782887						#PVP: Arrowhead Brake, High-Caliber Rounds, Snapshot Sights
+
+	// The Swarm (has Adept), Power Arc, High-Impact, Nightfall
+dimwishlist:item=47772649&perks=2848615171												#Dragonfly
+dimwishlist:item=3836861464&perks=2848615171
+dimwishlist:item=47772649&perks=3436462433,1546637391									#Surplus, and Vorpal Weapon
+dimwishlist:item=3836861464&perks=3436462433,1546637391
+dimwishlist:item=47772649&perks=839105230,3142289711,3436462433,1890422124				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Tap the Trigger
+dimwishlist:item=3836861464&perks=839105230,3142289711,3436462433,1890422124
+
+
+// Pulse Rifle
+	// BXR-55 Battler, Energy Solar, Legacy PR-55 (450), DoE
+dimwishlist:item=2708806099&perks=3523296417,11612903									#Demolitionist, and Adrenaline Junkie
+dimwishlist:item=2708806099&perks=839105230,1885400500,957782887,699525795				#PVP: Arrowhead Brake, Ricochet Rounds, Snapshot Sights, and Eye of the Storm
+
+	// Chattering Bone, Kinetic, Lightweight, LW
+dimwishlist:item=568515759&perks=839105230,1561002382,4267945040,2213355989				#PVP: Arrowhead Brake, High-Caliber Rounds, Full Auto Trigger System, and High-Impact Reserves
+
+	// Cold Denial, Kinetic, High-Impact, World
+dimwishlist:item=1216130969&perks=839105230,1561002382,4071163871,699525795				#PVP: Arrowhead Brake, High-Caliber Rounds, Threat Detector, and Eye of the Storm
+dimwishlist:item=1216130969&perks=839105230,1885400500,4071163871,699525795				#PVP: Arrowhead Brake, Ricochet Rounds, Threat Detector, and Eye of the Storm
+
+	// Darkest Before, Energy Arc, Rapid-Fire, To9
+dimwishlist:item=2481758391&perks=3436462433,4267945040									#Surplus, and Rampage
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,4267945040			#PVP: Arrowhead Brake, High-Caliber Rounds, Surplus, and Full Auto Trigger System
+dimwishlist:item=2481758391&perks=839105230,1561002382,3436462433,3511092054			#PVP: Arrowhead Brake, High-Caliber Rounds, Surplus, and Elemental Capacitor
+
+	// Forge's Pledge, Energy Solar, Adaptive, Iron Banner
+dimwishlist:item=1076810832&perks=839105230,3142289711,3436462433,3511092054			#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Elemental Capacitor
+dimwishlist:item=1076810832&perks=839105230,3142289711,3436462433,957782887				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Snapshot Sights
+
+	// Gridskipper, Energy Void, Rapid-Fire, Override
+dimwishlist:item=1621558458&perks=839105230,1561002382,957782887						#PVP: Arrowhead Brake, High-Caliber Rounds, and Snapshot Sights
+
+	// Hailing Confusion, Kinetic, Adaptive, Europa
+dimwishlist:item=2870169846&perks=3436462433											#Surplus
+dimwishlist:item=2870169846&perks=839105230,1561002382,3436462433,3511092054			#PVP: Arrowhead Brake, High-Caliber Rounds, Surplus, and Elemental Capacitor
+
+	// Last Perdition, Energy Void, Adaptive, World
+dimwishlist:item=188882152&perks=965619223,3142289711,1645158859,957782887				#PVP: SLO-10 Post, Accurized Rounds, Under Pressure, and Snaoshot Sights
+
+	// Legal Action II, Kinetic, High-Impact, World
+dimwishlist:item=3409645497&perks=1774574192											#Osmosis
+dimwishlist:item=3409645497&perks=839105230,3142289711,3436462433						#PVP: Arrowhead Brake, Accurized Rounds, and Surplus
+
+	// Premonition, Energy Void, High-Impact, Moon
+dimwishlist:item=208088207&perks=839105230,1561002382,3436462433,957782887				#PVP: Arrowhead Brake, High-Caliber Rounds, Surplus, and Snapshot Sights
+dimwishlist:item=208088207&perks=839105230,1885400500,3436462433,957782887				#PVP: Arrowhead Brake, Ricochet Rounds, Surplus, and Snapshot Sights
+
+	// Sacred Provenance, Kinetic, Aggressive Burst, GoS
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,3458972548				#PVP: Arrowhead Brake, High-Caliber Rounds, Rapid Hit, and Snapshot Sights
+
+	// Stars in Shadow, Energy Solar, High-Impact, Crucible
+dimwishlist:item=2050789284&perks=839105230,3142289711,3436462433,957782887				#PVP: Arrowhead Brake, Accurized Rounds, Surplus, and Snapshot Sights
+
+	// The Messenger (has Adept), Kinetic, High-Impact, Trials
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,3047969693				#PVP: Arrowhead Brake, High-Caliber Rounds, Rapid Hit, and Desperado	
+dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,1264398905				#PVP: Arrowhead Brake, High-Caliber Rounds, Rapid Hit, and Celerity	
+dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,1264398905
+dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693				#PVP: Arrowhead Brake, Ricochet Rounds, Rapid Hit, and Desperado	
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,3047969693
+dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,1264398905				#PVP: Arrowhead Brake, Ricochet Rounds, Rapid Hit, and Celerity	
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,1264398905
+
+	// The Third Axiom, Energy Arc, Adaptive, Vanguard
+dimwishlist:item=4156253727&perks=839105230,1561002382,3436462433,3511092054			#PVP: Arrowhead Brake, High-Caliber Rounds, Surplus, and Elemental Capacitor
+dimwishlist:item=4156253727&perks=3436462433,1546637391									#Surplus, and Vorpal Weapon
+
+	// The Time-worn Spire, Kinetic, Rapid-Fire, Iron Banner
+dimwishlist:item=3593598010&perks=2779035018,3425386926									#Feeding Frenzy, and Rampage
+dimwishlist:item=3593598010&perks=13792278,1885400500,588594999,11551321				#PVP: Hitmark IS, Ricochet Rounds, Moving Target, and Iron Grip
+
+
+// Rocket Launcher
+	// Ascendancy, Power Solar, Precision, Seasonal Quest
+dimwishlist:item=725408022&perks=951095735,3194351027									#Curated: Impulse Amplifier, and Explosive Light
+
+	// Hezen Vengeance (has Timelost), Power Solar, Aggressive, VoG
+dimwishlist:item=4050645223&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=1921159786&perks=3300816228,1546637391
+dimwishlist:item=4050645223&perks=3300816228,3927722942									#Auto-Loading Holster, and Lasting Impression
+dimwishlist:item=1921159786&perks=3300816228,3927722942
+
+	// Code Duello, Power Solar, High-Impact, Battlegrounds
+dimwishlist:item=2496242052&perks=3300816228,2396489472									#Auto-Loading Holster, and Chain Reaction	
+dimwishlist:item=2496242052&perks=3300816228,3927722942									#Auto-Loading Holster, and Lasting Impression
+
+	// Royal Entry, Power Void, Precision, Vanguard
+dimwishlist:item=2448907086&perks=3300816228,3927722942									#Auto-Loading Holster, and Lasting Impression
+
+	// Sleepless, Power Arc, High-Impact, DreamingC
+dimwishlist:item=3740842661&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=3740842661&perks=3300816228,2396489472									#Auto-Loading Holster, and Chain Reaction
+
+	// Subzero Salvo, Power Arc, Precision, Europa
+dimwishlist:item=42351395&perks=2010801679,2396489472									#Ambitious Assassin, and Chain Reaction
+
+	// The Hothead (has Adept), Power Arc, Adaptive, Nightfall
+dimwishlist:item=4255171531&perks=3977735242,3194351027									#Tracking Module, and Explosive Light
+dimwishlist:item=1866778462&perks=3977735242,3194351027
+dimwishlist:item=4255171531&perks=3977735242,1546637391									#Tracking Module, and Vorpal Weapon
+dimwishlist:item=1866778462&perks=3977735242,1546637391
+
+	// Tomorrow's Answer (has Adept), Power Void, High-Impact, Trials
+dimwishlist:item=958384347&perks=3300816228,2396489472									#Auto-Loading Holster, and Chain Reaction
+dimwishlist:item=1366917989&perks=3300816228,2396489472
+
+// Scout Rifle
+	// Contingency Plan, Energy Arc, Veist Rapid-Fire, World
+dimwishlist:item=577528837&perks=3436462433,4104185692									#Surplus, and Frenzy
+
+	// Eternal Blazon, Energy Arc, Lightweight, World
+dimwishlist:item=3514096004&perks=4267945040,1683379515									#Full Auto Trigger System, and Disruption Break
+dimwishlist:item=3514096004&perks=247725512,1683379515									#Rapid Hit, and Disruption Break
+
+	// Hung Jury SR4 (has Adept), Kinetic, Precision, Nightfall
+dimwishlist:item=4281371574&perks=247725512,3824105627									#Rapid Hit, and Firefly
+dimwishlist:item=681067419&perks=247725512,3824105627
+dimwishlist:item=4281371574&perks=3436462433,3824105627									#Surplus, and Firefly
+dimwishlist:item=681067419&perks=3436462433,3824105627
+	
+	// Night Watch, Kinetic, Lightweight, World
+dimwishlist:item=3504336176&perks=247725512,3038247973									#Rapid Hit, and Explosive Payload
+	
+	// Servant Leader, Kinetic, Rapid-Fire, Gambit
+dimwishlist:item=1107446438&perks=247725512,3425386926									#Rapid Hit, and Rampage
+dimwishlist:item=1107446438&perks=3436462433,3425386926									#Surplus, and Rampage
+	
+	// The Guiding Sight, Kinetic, High-Impact, Iron Banner
+dimwishlist:item=1641430382&perks=247725512,1546637391 									#Rapid Hit, and Vorpal Weapon
+dimwishlist:item=1641430382&perks=3436462433,1546637391 								#Surplus, and Vorpal Weapon
+	
+	// The Scholar (has Adept), Kinetic, High-Impact, Trials
+dimwishlist:item=2478792241&perks=4267945040,1546637391									#Full Auto Trigger System, and Vorpal Weapon
+dimwishlist:item=2386979999&perks=4267945040,1546637391
+	
+	// Transfiguration, Kinetic, High-Impact, LW
+dimwishlist:item=3799980700&perks=3425386926,1015611457									#Rampage, and Kill Clip
+dimwishlist:item=3799980700&perks=3300816228,3038247973									#Auto-Loading Holster, and Explosive Payload
+	
+	// Trustee, Energy Solar, Rapid-Fire, DSC
+dimwishlist:item=1392919471&perks=3436462433,3201496230 								#Surplus, and Redirection
+	
+	// Vouchsafe, Energy Void, Lightweight, DreamingC
+dimwishlist:item=3242168339&perks=247725512,3038247973									#Rapid Hit, and Explosive Payload
+dimwishlist:item=3242168339&perks=247725512,1546637391									#Rapid Hit, and Vorpal Weapon
+dimwishlist:item=3242168339&perks=247725512,2848615171									#Rapid Hit, and Dragonfly
+dimwishlist:item=3242168339&perks=3436462433,3038247973									#Surplus, and Explosive Payload
+dimwishlist:item=3242168339&perks=3436462433,1546637391									#Surplus, and Vorpal Weapon
+dimwishlist:item=3242168339&perks=3436462433,2848615171									#Surplus, and Dragonfly
+
+	
+// Shotgun
+	// A Sudden Death, Energy Arc, Aggressive, To9
+dimwishlist:item=2855157553&perks=1047830412,3436462433,3511092054						#PVP: Full Choke, Surplus, and Elemental Capacitor
+dimwishlist:item=2855157553&perks=1047830412,3161816588,3511092054						#PVP: Full Choke, Slideshot, and Elemental Capacitor
+
+	// Astral Horizon (has Adept), Kinetic, Aggressive, Trials
+dimwishlist:item=1697682876&perks=1047830412,3436462433,1264398905						#PVP: Full Choke, Surplus, and Celerity
+dimwishlist:item=532746994&perks=1047830412,3436462433,1264398905
+dimwishlist:item=1697682876&perks=1047830412,3436462433,47981717						#PVP: Full Choke, Surplus, and Opening Shot
+dimwishlist:item=532746994&perks=1047830412,3436462433,1264398905
+
+	// Blasphemer, Kinetic, Precision Slug, Moon
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Quickdraw, and Opening Shot
+dimwishlist:item=2782847179&perks=3250034553,3142289711,1866048759,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Hip-Fire Grip, and Opening Shot
+
+	// Bonechiller, Energy Void, Precision Slug, Europa
+dimwishlist:item=4037745684&perks=1840239774,3142289711,3436462433,47981717				#PVP: Fluted Barrel, Accurized Rounds, Surplus, and Opening Shot
+dimwishlist:item=4037745684&perks=202670084,3142289711,3436462433,47981717				#PVP: Full Bore, Accurized Rounds, Surplus, and Opening Shot
+
+	// Fractethyst, Kinetic Stasis, Precision, AstA
+dimwishlist:item=3184681056&perks=1047830412,706527188,47981717							#PVP: Full Choke, Quickdraw, and Opening Shot
+dimwishlist:item=3184681056&perks=1047830412,3142289711,3161816588,47981717				#PVP: Full Choke, Accurized Rounds, Slideshot, and Opening Shot
+
+	// First in, Last out, Energy Arc, Precision Slug, World
+dimwishlist:item=3616586446&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+dimwishlist:item=3616586446&perks=1840239774,1866048759,47981717						#PVP: Fluted Barrel, Hip-Fire Grip, and Opening Shot
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717				#PVP: Corkscrew Rifling, Accurized Rounds, Hip-Fire Grip, and Opening Shot
+
+	// Found Verdict (has Timelost), Energy Arc, Aggressive, VoG
+dimwishlist:item=3197270240&perks=1047830412,3436462433,47981717						#PVP: Full Choke, Surplus, and Opening Shot
+dimwishlist:item=631439337&perks=1047830412,3436462433,47981717
+dimwishlist:item=3197270240&perks=1047830412,3161816588,47981717						#PVP: Full Choke, Slideshot, and Opening Shot
+dimwishlist:item=631439337&perks=1047830412,3161816588,47981717
+
+	// Heritage, Kinetic, Precision Slug, DSC
+dimwishlist:item=4248569242&perks=3300816228,469285294									#Auto-Loading Holster, and Recombination
+dimwishlist:item=4248569242&perks=4090651448,3142289711,1866048759,957782887			#PVP: Corkscrew Rifling, Accurized Rounds, Hip-Fire Grip, and Snapshot Sights
+dimwishlist:item=4248569242&perks=4090651448,3142289711,1866048759,588594999			#PVP: Corkscrew Rifling, Accurized Rounds, Hip-Fire Grip, and Moving Target
+dimwishlist:item=4248569242&perks=202670084,3142289711,1866048759,957782887				#PVP: Full Bore, Accurized Rounds, Hip-Fire Grip, and Snapshot Sights
+dimwishlist:item=4248569242&perks=202670084,3142289711,1866048759,588594999				#PVP: Full Bore, Accurized Rounds, Hip-Fire Grip, and Moving Target
+
+	// Ikelos_SG_V1.0.2, Energy Solar, Rapid-Fire, World
+dimwishlist:item=1096206669&perks=4071163871,2360754333									#Threat Detector, and Trench Barrel
+
+	// Matador 64, Energy Arc, Precision, GoA
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717				#PVP: Full Choke, Accurized Rounds, Threat Detector, and Opening Shot
+
+	// One Small Step, Kinetic, Rapid-Fire, Moon
+dimwishlist:item=1016668089&perks=3300816228,2679249093									#Auto-Loading Holster, and One-Two Punch
+dimwishlist:item=1016668089&perks=3300816228,2360754333									#Auto-Loading Holster, and Trench Barrel
+
+	// Prophet of Doom, Energy Arc, Precision, GoS
+dimwishlist:item=4020742303&perks=3096702027,3275789089									#Genesis, and Shield Disorient
+
+	// Retold Tale, Energy Void, Precision, DreamingC
+dimwishlist:item=346136302&perks=1047830412,706527188,957782887							#PVP: Full Choke, Quickdraw, and Snapshot Sights
+dimwishlist:item=346136302&perks=1047830412,3161816588,957782887						#PVP: Full Choke, Slideshot, and Snapshot Sights
+
+	// Retrofuturist, Energy Void, Lightweight, World
+dimwishlist:item=1402766122&perks=1047830412,706527188,957782887						#PVP: Full Choke, Quickdraw, and Snapshot Sights
+dimwishlist:item=1402766122&perks=1047830412,1866048759,957782887						#PVP: Full Choke, Hip-Fire Grip, and Snapshot Sights
+
+	// Riiswalker, Kinetic, Lightweight, Iron Banner
+dimwishlist:item=108221785&perks=1047830412,706527188,591790007							#PVP: Full Choke, Quickdraw, and Iron Reach
+dimwishlist:item=108221785&perks=1047830412,1866048759,591790007						#PVP: Full Choke, Hip-Fire Grip, and Iron Reach
+
+	// Seventh Seraph CQC-12, Energy Solar, Lightweight, GoS
+dimwishlist:item=1821724780&perks=3300816228,3275789089									#Auto-Loading Holster, and Shield Disorient
+dimwishlist:item=1821724780&perks=1047830412,706527188,957782887						#PVP: Full Choke, Quickdraw, and Snapshot Sights
+dimwishlist:item=1821724780&perks=1047830412,3161816588,957782887						#PVP: Full Choke, Slideshot, and Snapshot Sights
+
+	// Sojourner's Tale, Energy Solar, Precision Slug, Override
+dimwishlist:item=599895591&perks=1840239774,3142289711,588594999,47981717				#PVP: Fluted Barrel, Accurized Rounds, Moving Target, and Opening Shot
+dimwishlist:item=599895591&perks=3250034553,3142289711,588594999,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Moving Target, and Opening Shot
+
+	// Toil and Trouble, Kinetic, Aggressive, World
+dimwishlist:item=2957367743&perks=1047830412,3161816588,957782887						#PVP: Full Choke, Slideshot, and Snapshot Sights
+dimwishlist:item=2957367743&perks=1047830412,4071163871,957782887						#PVP: Full Choke, Threat Detector, and Snapshot Sights
+
+	// Wastelander M5, Kinetic, Lightweight, DoE
+dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717				#PVP: Full Choke, Accurized Rounds, Slideshot, and Opening Shot
+
+	// Xenoclast IV, Energy Arc, Lightweight, Vanguard
+dimwishlist:item=2891672170&perks=1631667848,2679249093 								#Grave Robber, and One-Two Punch
+dimwishlist:item=2891672170&perks=3300816228,2360754333 								#Auto-Loading Holster, and Trench Barrel
+dimwishlist:item=2891672170&perks=1047830412,3161816588,4082225868						#PVP: Full Choke, Slideshot, and Swashbuckler
+
+
+// Sidearm
+	// Enigma's Draw, Kinetic, Precision, World
+dimwishlist:item=1723380073&perks=1631667848,4082225868									#Grave Robber, and Swashbuckler
+
+	// Farewell, Kinetic, Lightweight, Override
+dimwishlist:item=541188001&perks=2846385770,1546637391									#Rangefinder, and Vorpal Weapon
+
+	// High Albedo, Kinetic, Adaptive, Europa
+dimwishlist:item=1197486957&perks=3436462433,3523296417 								#Surplus, and Demolitionist
+
+	// Lonesome, Kinetic, Precision, World
+dimwishlist:item=2199171672&perks=1631667848,4082225868									#Grave Robber, and Swashbuckler
+
+	// Punching Out, Energy Solar, Suros Rapid-Fire, Vanguard
+dimwishlist:item=378498222&perks=1631667848,4082225868									#Grave Robber, and Swashbuckler
+
+	// Seventh Seraph SI-2, Energy Void, Lightweight, World
+dimwishlist:item=3937866388&perks=3300816228,1546637391									#Auto-Loading Holster, and Vorpal Weapon
+
+	// The Vision, Energy Arc, Omolon Adaptive, Override
+dimwishlist:item=2414141462&perks=3436462433,1683379515									#Surplus, and Disruption Break
+dimwishlist:item=2414141462&perks=1631667848,4082225868									#Grave Robber, and Swashbuckler
+
+
+// Sniper Rifle
+	// 1000 Yard Stare, Energy Void, Adaptive, GoA
+dimwishlist:item=4164201232&perks=3250034553,3142289711,280464955,957782887				#PVP: Hammer-Forged Rifling, Accurized Rounds, Firmly Planted, and Snapshot Sights
+dimwishlist:item=4164201232&perks=3250034553,3142289711,2866798147,957782887			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+dimwishlist:item=4164201232&perks=1840239774,3142289711,280464955,588594999				#PVP: Fluted Barrel, Accurized Rounds, Firmly Planted, and Moving Target
+dimwishlist:item=4164201232&perks=1840239774,3142289711,2866798147,588594999			#PVP: Fluted Barrel, Accurized Rounds, No Distractions, and Moving Target
+
+	// Adored, Energy Arc, Adaptive, Seasonal Quest
+dimwishlist:item=4184808992&perks=2450788523,957782887									#Curated: PVP: Killing Wind, and Snapshot Sights
+
+	// Apostate, Energy Arc, Rapid-Fire, Moon
+dimwishlist:item=2164448701&perks=3250034553,3142289711,2866798147,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Opening Shot
+dimwishlist:item=2164448701&perks=3250034553,3142289711,3436462433,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Surplus, and Opening Shot			
+
+	// Bite of the Fox, Kinetic, Aggressive, World
+dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Snapshot Sights, and Opening Shot																						
+
+	// Distant Tumulus, Energy Solar, Rapid-Fire, World
+dimwishlist:item=2807687156&perks=2284787283,1771339417									#Clown Cartridge, and Firing Line
+dimwishlist:item=2807687156&perks=3250034553,3142289711,47981717						#PVP: Hammer-Forged Rifling, Accurized Rounds, and Opening Shot
+
+	// Eye of Sol (has Adept), Kinetic, Adaptive, Trials
+dimwishlist:item=3164743584&perks=3250034553,3142289711,2866798147,957782887			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+dimwishlist:item=3637570176&perks=3250034553,3142289711,2866798147,957782887
+dimwishlist:item=3164743584&perks=1840239774,3142289711,2866798147,47981717				#PVP: Fluted Barrel, Accurized Rounds, No Distractions, and Opening Shot
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,3436462433,47981717				#PVP: Fluted Barrel, Accurized Rounds, Surplus, and Opening Shot
+dimwishlist:item=3637570176&perks=1840239774,3142289711,3436462433,47981717
+dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717				#PVP: Fluted Barrel, Accurized Rounds, Moving Target, and Opening Shot
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
+
+	// Far Future, Energy Solar, Adaptive, Battlegrounds
+dimwishlist:item=893527433&perks=1840239774,3142289711,3436462433,47981717				#PVP: Fluted Barrel, Accurized Rounds, Surplus, and Opening Shot
+
+	// Frozen Orbit, Energy Void, Aggressive, Crucible
+dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,957782887			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+
+	// Ikelos_SR_V1.0.2, Energy Solar, Rapid-Fire, World
+dimwishlist:item=1253087083&perks=1354429876,2213355989									#Fourth Time's the Charm, and High-Impact Reserves
+dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,2551157718			#PVP: Hammer-Forged Rifling, Accurized Rounds (Seraph Rounds), Moving Target, and Box Breathing
+dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,2551157718			#PVP: Hammer-Forged Rifling, Accurized Rounds (Seraph Rounds), No Distractions, and Box Breathing
+	
+	// Occluded Finality, Energy Arc, Aggressive, Iron Banner
+dimwishlist:item=852551895&perks=957782887,1546637391									#Snapshot Sights, and Vorpal Weapon
+dimwishlist:item=852551895&perks=3250034553,957782887,47981717							#PVP: Hammer-Forged Rifling, Snapshot Sights, and Opening Shot
+
+	// Omniscient Eye, Energy Solar, Rapid-Fire, GoS
+dimwishlist:item=3454326177&perks=3250034553,3142289711,2866798147,957782887 			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+
+	// Praedyth's Revenge (has Timelost), Kinetic, Rapid-Fire, VoG
+dimwishlist:item=3653573172&perks=3824105627											#Firefly
+dimwishlist:item=1987769101&perks=3824105627
+dimwishlist:item=3653573172&perks=3250034553,3142289711,2866798147,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Opening Shot
+dimwishlist:item=1987769101&perks=3250034553,3142289711,2866798147,47981717
+dimwishlist:item=3653573172&perks=3250034553,3142289711,588594999,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Moving Target, and Opening Shot
+dimwishlist:item=1987769101&perks=3250034553,3142289711,588594999,47981717
+
+	// Shepherd's Watch, Kinetic, Adaptive, World
+dimwishlist:item=3743729616&perks=3250034553,3142289711,2866798147,957782887 			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+dimwishlist:item=3743729616&perks=3250034553,3142289711,588594999,957782887 			#PVP: Hammer-Forged Rifling, Accurized Rounds, Moving Target, and Snapshot Sights
+dimwishlist:item=3743729616&perks=3250034553,3142289711,2866798147,47981717 			#PVP: Fluted Barrel, Accurized Rounds, No Distractions, and Opening Shot
+dimwishlist:item=3743729616&perks=3250034553,3142289711,588594999,47981717				#PVP: Fluted Barrel, Accurized Rounds, Moving Target, and Opening Shot
+
+	// Succession, Kinetic, Aggressive, DSC
+dimwishlist:item=2990047042&perks=1523832109,1546637391 								#Reconstruction, and Vorpal Weapon
+dimwishlist:item=2990047042&perks=1840239774,3142289711,2866798147,957782887 			#PVP: Fluted Barrel, Accurized Rounds, No Distractions, and Snapshot Sights
+dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887 			#PVP: Fluted Barrel, Accurized Rounds, Moving Target, and Snapshot Sights
+
+	// The Long Walk, Energy Solar, Aggressive, To9
+dimwishlist:item=3326850591&perks=2284787283,1771339417									#Magazine, Clown Cartridge, and Firing Line
+
+	// The Supremacy, Kinetic, Rapid-Fire, LW
+dimwishlist:item=686951703&perks=957782887,3400784728									#Snapshot Sights, and Triple Tap
+
+	// Tranquility, Kinetic, Adaptive, Moon
+dimwishlist:item=1645386487&perks=3250034553,3142289711,2866798147,957782887			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+dimwishlist:item=1645386487&perks=3300816228,1771339417									#Auto-Loading Holster, and Firing Line
+
+	// Twilight Oath, Energy Solar, Rapid-Fire, DreamingC
+dimwishlist:item=3297863558&perks=1886251741,1546637391									#Surplus, and Vorpal Weapon
+dimwishlist:item=3297863558&perks=3250034553,3142289711,2866798147,957782887 			#PVP: Hammer-Forged Rifling, Accurized Rounds, No Distractions, and Snapshot Sights
+dimwishlist:item=3297863558&perks=3250034553,3142289711,47981717,957782887	 			#PVP: Hammer-Forged Rifling, Accurized Rounds, Opening Shot, and Snapshot Sights
+
+	// Uzume RR4 (has Adept), Energy Solar, Adaptive, Nightfall
+dimwishlist:item=2065081837&perks=3250034553,3142289711,957782887,1546637391			#PVP: Hammer-Forged Rifling, Accurized Rounds, Snapshot Sights, and Demolitionist
+dimwishlist:item=852228780&perks=3250034553,3142289711,957782887,1546637391
+
+	// Widow's Bite, Energy Solar, Rapid-Fire, World
+dimwishlist:item=3653573172&perks=3250034553,3142289711,280464955,47981717				#PVP: Hammer-Forged Rifling, Accurized Rounds, Firmly Planted, and Opening Shot	
+
+
+// Submachine Gun
+	// Borrowed Time, Energy Solar, Aggressive, Gambit
+dimwishlist:item=875848769&perks=2779035018,3425386926									#Feeding Frenzy, and Rampage
+
+	// Cold Front, Kinetic, Aggressive, Dawning
+dimwishlist:item=1506719573&perks=3436462433,3425386926 								#Surplus, and Rampage
+
+	// Death Adder, Energy Solar, Lightweight, World
+dimwishlist:item=2742490609&perks=3300816228,1683379515									#Auto-Loading Holster, and Disruption Break
+dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,2846385770			#PVP: Smallbore, Accurized Rounds, Dynamic Sway Reduction, and Rangefinder
+
+	// Escape Velocity, Kinetic, Lightweight, World
+dimwishlist:item=1786797708&perks=1546637391											#Vorpal Weapon
+
+	// Extraordinary Rendition, Kinetic, Aggressive, Battlegrounds
+dimwishlist:item=1097616550&perks=3436462433,3425386926									#Surplus, and Rampage
+
+	// Friction Fire, Kinetic, Precision, Wrath
+dimwishlist:item=1513993763&perks=3300816228,1546637391 								#Auto-Loading Holster, and Vorpal Weapon
+
+	// Ikelos_SMG_V1.0.2, Energy Arc, Aggressive, World
+dimwishlist:item=2222560548&perks=1546637391											#Vorpal Weapon
+dimwishlist:item=3682803680&perks=1482024992,1140096971,1359896290,1890422124			#PVP: Smallbore, Seraph Rounds, Dynamic Sway Reduction, and Tap the Trigger
+
+	// Multimach CCX, Kinetic, Lightweight, Iron Banner
+dimwishlist:item=3717177717&perks=4071163871,1015611457									#Threat Detector, and Kill Clip
+dimwishlist:item=3717177717&perks=1359896290,11551321									#PVP: Dynamic Sway Reduction, and Iron Grip
+
+	// Shayura's Wrath (has Adept), Energy Void, Precision, Trials
+dimwishlist:item=3682803680&perks=1482024992,3142289711,1359896290,1890422124			#PVP: Smallbore, Accurized Rounds, Dynamic Sway Reduction, and Tap the Trigger
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1890422124
+
+	// Stochastic Variable, Energy Arc, Lightweight, Override
+dimwishlist:item=2272470786&perks=2779035018,2458213969									#Feeding Frenzy, and Multikill Clip
+
+
+// Sword
+	// Bequest, Power, Adaptive, DSC 						
+dimwishlist:item=3366545721&perks=2726471870,354401740									#Thresh, and Assassin's Blade
+
+	// Crown-Splitter, Power Void, Aggressive, Umbral/World
+dimwishlist:item=2782325302&perks=1546637391											#Vorpal Weapon
+
+	// Eternity's Edge, Power Solar, Vortex, Umbral/World
+dimwishlist:item=2782325301&perks=2726471870354401740									#Thresh, and Assassin's Blade
+
+	// Falling Guillotine, Power Void, Vortex, World
+dimwishlist:item=614426548&perks=1749209109,3913600130									#Relentless Strikes, and Whirlwind Blade
+
+	// Half-Truths, Power Arc, Adaptive, DoE
+dimwishlist:item=3257091166&perks=2726471870,2077819806									#Thresh, and Eager Edge
+
+	// Hero of Ages, Power Arc, Vortex, GoA
+dimwishlist:item=2139640995&perks=3108830275,2396489472									#Unrelenting, and Chain Reaction
+dimwishlist:item=2139640995&perks=3523296417,2396489472									#Demolitionist, and Chain Reaction
+dimwishlist:item=2139640995&perks=3705817207,2396489472									#Duelist's Trance, and Chain Reaction
+dimwishlist:item=2139640995&perks=354401740												#Assassin's Blade
+
+	// Night Terror, Power Arc, Adaptive, Moon
+dimwishlist:item=3870811754&perks=1749209109,1546637391									#Relentless Strikes, and Vorpal Weapon
+
+	// Quickfang, Power Void, Lightweight, Umbral/World
+dimwishlist:item=2782325300&perks=354401740												#Assassin's Blade
+
+	// Sola's Scar (has Adept), Power Solar, Caster, Trials
+dimwishlist:item=1313528549&perks=2396489472											#Chain Reaction
+dimwishlist:item=3847137620&perks=2396489472
+
+	// The Other Half, Power Void, Adaptive, DoE
+dimwishlist:item=3257091167&perks=2077819806,4104185692									#Eager Edge, and Frenzy
+
+	// Zephyr, Power Stasis, Adaptive, Dawning
+dimwishlist:item=3400256755&perks=2726471870,3650930298									#Thresh, and Cold Steel
+
+
+// Trace Rifle
+	// Retraced Path, Energy Solar, Adaptive, DoE
+dimwishlist:item=548958835&perks=1820235745,2610012052									#Subsistence, and Golden Tricorn
+dimwishlist:item=548958835&perks=1820235745,4049631843									#Subsistence, and One for All
+dimwishlist:item=548958835&perks=1820235745,4104185692									#Subsistence, and Frenzy
